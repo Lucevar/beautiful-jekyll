@@ -25,7 +25,7 @@ description: Morrowind is great! Here are some mod suggestions to make it even b
 navbar-links:
   Home: "https://lucevar.github.io"
   About: "aboutme"
-  My Mods: "mymods"
+  My Mods:
     - Clear Your Name: "mods/clearyourname"
     - Balmora Redecorated: "mods/balmoraredecorated"
   Guides:

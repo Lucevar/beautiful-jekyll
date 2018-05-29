@@ -25,12 +25,24 @@ description: Morrowind is great! Here are some mod suggestions to make it even b
 navbar-links:
   Home: "https://lucevar.github.io"
   About: "aboutme"
+  My Mods: "mymods"
+    - Clear Your Name: "mods/clearyourname"
+    - Balmora Redecorated: "mods/balmoraredecorated"
   Guides:
     - Setting Up Modded MW: "guides/settingup"
+    - Replacers: "guides/Replacers"
+    - Dungeon Overhauls: "guides/Dungeons"
+    - Immersive Gameplay: "guides/Immersion"
+    - Landscape Mods: "guides/Landscapes"
+    - City Mods: "guides/Cities"
   Themed Mod Lists:
     - Telvanni: "lists/Telvanni"
     - Hlaalu: "lists/Hlaalu"
     - Redoran: "lists/Redoran"
+  Discord Wisdom:
+    - Blender: "discord/Blender"
+    - CS: "discord/CS"
+    - MWSE/Lua: "discord/MWSE"
   MW Modding Discord: "https://discord.gg/stuvGsC"
 
 # Image to show in the navigation bar - image must be a square (width = height)

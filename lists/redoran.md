@@ -1,1 +1,0 @@
-LGNPC Pax Redoran!

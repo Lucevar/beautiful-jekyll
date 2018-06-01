@@ -31,14 +31,12 @@ navbar-links:
   Guides:
     - Setting Up Modded MW: "guides/settingup"
     - Replacers: "guides/Replacers"
-    - Dungeon Overhauls: "guides/Dungeons"
-    - Immersive Gameplay: "guides/Immersion"
+    - Dungeons: "guides/Dungeons"
     - Landscape Mods: "guides/Landscapes"
     - City Mods: "guides/Cities"
   Themed Mod Lists:
-    - Telvanni: "lists/Telvanni"
-    - Hlaalu: "lists/Hlaalu"
-    - Redoran: "lists/Redoran"
+    - Immersion: "lists/Immersion"
+    - Daedra: "lists/Daedra"
   Discord Wisdom:
     - Blender: "discord/Blender"
     - CS: "discord/CS"

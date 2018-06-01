@@ -1,3 +1,0 @@
-Yay!
-
-Uvirith's Legacy!

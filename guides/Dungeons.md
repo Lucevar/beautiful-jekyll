@@ -3,15 +3,17 @@ Title: Dungeons
 ---
 This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribunal and Bloodmoon, at the bottom) separated by category. Next to the name of the cave is a list of mods that change it. Some mods change a lot of different caves; in that case I've generally just abbreviated the name rather than linking it every time. These include:  
 
-**Cavern Overhaul** by *Lougian* - Abbreviated as LCO  
-**Mines & Caverns** by *jsp25* - Abbreviated as M&C  
-**Mines & Caverns - Solstheim** by *jsp25* - Abbreviated as M&CS, only compatible with Wollibeebee's Tomb of the Snow Prince, not with vanilla. Use LCO's Solstheim changes if you don't use TOTSP.  
-**Detailed Dungeons** by *Eldermaster28* - Abbreviated as DD.   
+[**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249) by *Lougian* - Abbreviated as LCO  
+[**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893) by *jsp25* - Abbreviated as M&C  
+[**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470) by *jsp25* - Abbreviated as M&CS, only compatible with Wollibeebee's Tomb of the Snow Prince, not with vanilla. Use LCO's Solstheim changes if you don't use TOTSP.  
+[**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076) by *Eldermaster28* - Abbreviated as DD.   
+[**Remiros' Tombs Expansion**](https://www.nexusmods.com/morrowind/mods/45616) by *Remiros* - Abbreviated as RTE  
+[**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249) by *RubberMan* - Abbreviated as DRP  
 
 **If you're aware of any mods that change these locations but aren't listed here, please let me know! I can be contacted as Lucevar at the Morrowind Nexus or on the Morrowind Modding Discord (linked above)**.  
 
 ## General Replacers
-**Lougian's Caverns Bumpmapped** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled.
+**[Lougian's Caverns Bumpmapped](https://www.nexusmods.com/morrowind/mods/42412)** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled.
 
 ## New Dungeons
 **Archnalteg** - M&C  
@@ -282,7 +284,7 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **Bthungthumz**  
 **Dagoth Ur** - Darknut  
 **Druscashti**  
-**Endusal** - Trainwiz  
+**Endusal** - [Endusal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
 **Galom Daeus**  
 **Mudan**  
 **Mzahnch** - DRP  
@@ -294,7 +296,7 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **Nchuleftingth**  
 **Nchurdamz**  
 **Odrosal** - Darknut  
-**Tureynulal** - Trainwiz  
+**Tureynulal** - [Tureynulal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
 **Vemynal** - Darknut  
 
 ## Grottos

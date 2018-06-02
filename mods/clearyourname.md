@@ -1,9 +1,8 @@
 ---
 Title: Clear Your Name
-Sub-title: Clear Your Name
 ---
 
-## [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786) at Morrowind Nexus
+**[Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786)** at Morrowind Nexus
 
 ![Nolus Atrius Dialogue from Clear Your Name](https://staticdelivery.nexusmods.com/mods/100/images/43786-2-1438997064.png)
 

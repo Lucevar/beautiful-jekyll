@@ -29,9 +29,7 @@ navbar-links:
     - Caldera Guild of Mages: "mods/calderagom"
   Guides:
     - Dungeons: "guides/Dungeons"
-  Themed Mod Lists:
-    - Immersion: "lists/Immersion"
-    - Daedra: "lists/Daedra"
+  Themed Mod Lists (WIP):
   MW Mod Discord: "https://discord.gg/stuvGsC"
 
 # Image to show in the navigation bar - image must be a square (width = height)

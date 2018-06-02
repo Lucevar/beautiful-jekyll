@@ -3,17 +3,20 @@ Title: Dungeons
 ---
 This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribunal and Bloodmoon, at the bottom) separated by category. Next to the name of the cave is a list of mods that change it. Some mods change a lot of different caves; in that case I've generally just abbreviated the name rather than linking it every time. These include:  
 
-[**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249) by *Lougian* - Abbreviated as LCO  
-[**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893) by *jsp25* - Abbreviated as M&C  
-[**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470) by *jsp25* - Abbreviated as M&CS, only compatible with Wollibeebee's Tomb of the Snow Prince, not with vanilla. Use LCO's Solstheim changes if you don't use TOTSP.  
-[**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076) by *Eldermaster28* - Abbreviated as DD.   
-[**Remiros' Tombs Expansion**](https://www.nexusmods.com/morrowind/mods/45616) by *Remiros* - Abbreviated as RTE  
-[**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249) by *RubberMan* - Abbreviated as DRP  
+[**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249) by *Lougian* - Abbreviated as **LCO**  
+[**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893) by *jsp25* - Abbreviated as **M&C**  
+[**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470) by *jsp25* - Abbreviated as **M&CS**, only compatible with Wollibeebee's Tomb of the Snow Prince, not with vanilla. Use LCO's Solstheim changes if you don't use TOTSP.  
+[**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076) by *Eldermaster28* - Abbreviated as **DD**.   
+[**Remiros' Tombs Expansion**](https://www.nexusmods.com/morrowind/mods/45616) by *Remiros* - Abbreviated as **RTE**  
+[**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249) by *RubberMan* - Abbreviated as **DRP**  
 
-**If you're aware of any mods that change these locations but aren't listed here, please let me know! I can be contacted as Lucevar at the Morrowind Nexus or on the Morrowind Modding Discord (linked above)**.  
+**If you're aware of any mods that change these locations but aren't listed here, please let me know! I can be contacted as Lucevar at the Morrowind Nexus or on the Morrowind Modding Discord (linked above)**.
+
+## TL;DR my recommendations
+Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with the DD patch (available on the M&C page) since I think the changes M&C makes are generally higher quality, with fewer compatibility issues.
 
 ## General Replacers
-**[Lougian's Caverns Bumpmapped](https://www.nexusmods.com/morrowind/mods/42412)** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled.
+**[Lougian's Caverns Bumpmapped](https://www.nexusmods.com/morrowind/mods/42412)** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled, otherwise you get odd texture results.
 
 ## New Dungeons
 **Archnalteg** - M&C  
@@ -23,7 +26,7 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **Mzurleft** - M&C  
 **Ruins of Sturmz-Surech** - M&C  
 **Vveb Cavern** - M&C  
-**Serpenthis Ancestral Tomb** - Serpenthis - this is a fun new dungeon with some interesting gameplay. Hope you enjoyed Sabrina's gym as a kid!  
+**Serpenthis Ancestral Tomb** - [Serpenthis Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/45701) by *Lord Berandas* - this is a fun new dungeon with some interesting gameplay. Hope you enjoyed Sabrina's gym as a kid!  
 
 ## Ancestral Tombs
 **Alas Ancestral Tomb**  
@@ -32,7 +35,7 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **Andalor Ancestral Tomb**  
 **Andas Ancestral Tomb**  
 **Andavel Ancestral Tomb**  
-**Andrano Ancestral Tomb** - G7's Andrano Tomb Remastered  
+**Andrano Ancestral Tomb** - [Andrano Tomb Remastered](https://www.nexusmods.com/morrowind/mods/44672) by *Team Wretched Netch*  
 **Andrethi Ancestral Tomb** - M&C  
 **Andules Ancestral Tomb**  
 **Aralen Ancestral Tomb**  
@@ -94,7 +97,7 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **Salothan Ancestral Tomb**  
 **Salothran Ancestral Tomb**  
 **Salvel Ancestral Tomb**  
-**Samarys Ancestral Tomb** - Pikachuno  
+**Samarys Ancestral Tomb** - [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612) by *PikachunoTM* or [Greater Samarys](https://www.nexusmods.com/morrowind/mods/44592) by *Varlothen*  
 **Sandas Ancestral Tomb** - RTE  
 **Sandus Ancestral Tomb**  
 **Sarano Ancestral Tomb** - RTE  
@@ -130,18 +133,18 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **Ainab**  
 **Ainat** - LCO, M&C  
 **Ansi** - LCO, M&C  
-**Ashanammu** - LCO
+**Ashanammu** - LCO, [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194)
 **Ashinabi** - LCO  
 **Ashirbadon** - LCO  
 **Ashir-Dan** - LCO  
-**Ashmelech** - Ashmelech Overhaul  
+**Ashmelech** - [Ashmelech Reborn](https://www.nexusmods.com/morrowind/mods/45648) by *istreddify*  
 **Assarnud** - LCO  
 **Assemanu** - LCO  
 **Assu** - LCO  
 **Assumanu** - LCO  
 **Beshara** - LCO, M&C  
 **Bensamsi** - LCO  
-**Cavern of the Incarnate** - Cavern of the Incarnate Overhaul, LCO, DD  
+**Cavern of the Incarnate** - [Cavern of the Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860) by *ivolga/Aoimevelho*, LCO, DD  
 **Corprusarium**  
 **Dubdilla** - LCO  
 **Dun-Ahhe** - LCO, M&C  
@@ -224,7 +227,7 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **Zergonipal**  
 
 ## Daedric Shrines - Mehrunes Dagon
-**Ald Sotha** - M&C, Severa Magia DB Fix  
+**Ald Sotha** - M&C, [Severa Magia DB Fix](https://www.nexusmods.com/morrowind/mods/45647) by *Corsair83*  
 **Ashalmimilkala**  
 **Assarnatamat**  
 **Assernerairan**  
@@ -254,22 +257,22 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **Zaintiraris**  
 
 ## Daedric Shrines - Misc
-**Anudnabia** - Forge of Hilbongard  
+**Anudnabia** - [Forge of Hilbongard](http://download.fliggerty.com/download--702) by *Melchior Dahrk*  
 **Khartag Point**  
 **Magas Volar**  
-**Shrine of Azura** - RR  
+**Shrine of Azura**  
 **Shrine of Boethia**  
-**Shrine of Mephala** - Westly  
+**Shrine of Mephala** - [The Shrine of Mephala](http://mw.modhistory.com/download-112-11326) by *Westly*  
 
 ## Dunmer Strongholds
 **Andasreth**  
 **Berandas**  
 **Falasmaryon**  
-**Falensarano** - Ruins of Falensarano  
+**Falensarano** - [Falensarano - The Ruined Stronghold](https://www.nexusmods.com/morrowind/mods/44244) by *CarrotFerret*  
 **Hlormaren**  
 **Indoranyon**  
-**Kogoruhn** - DD, Kogoruhn Ruins  
-**Marandus** - LGNPC Pax Redoran  
+**Kogoruhn** - DD, [Kogoruhn Ruins](https://www.nexusmods.com/morrowind/mods/44034) by *Langusteer*  
+**Marandus** - [LGNPC Pax Redoran](http://lgnpc.org/downloads)  
 **Rotheran**  
 **Telasero**  
 **Valenvaryon**  
@@ -282,7 +285,7 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **Bthanchend**  
 **Bthuand**  
 **Bthungthumz**  
-**Dagoth Ur** - Darknut  
+**Dagoth Ur** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
 **Druscashti**  
 **Endusal** - [Endusal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
 **Galom Daeus**  
@@ -295,9 +298,9 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **Nchuleft** - DRP  
 **Nchuleftingth**  
 **Nchurdamz**  
-**Odrosal** - Darknut  
+**Odrosal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
 **Tureynulal** - [Tureynulal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
-**Vemynal** - Darknut  
+**Vemynal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
 
 ## Grottos
 **Akimaes Grotto** - M&C  
@@ -313,7 +316,7 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **Zalkin Grotto**
 
 ## Ebony Mines
-**Caldera Mine** - Caldera Mine Expanded  
+**Caldera Mine** - [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194)  
 **Elith-Pal Mine** - M&C  
 **Mausur Caverns** - M&C  
 **Sudanit Mine** - M&C  
@@ -401,17 +404,17 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **OM - Moril Manor** - DD  
 **OM - Temple Catacombs** - DD  
 **OM - Temple Gardens** - DD  
-**Clockwork City** - SSE  
+**Clockwork City** - [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347) by *Trainwiz*  
 
 ## Bloodmoon Barrows
-**Bloodskal Barrow**  
+**Bloodskal Barrow** - [The Stone Halls of Solstheim](https://www.nexusmods.com/morrowind/mods/45666) by *PikachunoTM* and *Corsair83*  
 **Connorflenge Barrow**  
 **Eddard Barrow**  
 **Frosselmane Barrow**  
 **Glenschul's Tomb**  
 **Gyldenhul Barrow** - M&CS  
 **Himmelhost Barrow**  
-**Hrothmund's Barrow** - LCO(French)  
+**Hrothmund's Barrow** - LCO  
 **Jolgeirr Barrow** - M&CS  
 **Kelsedolk Barrow** - M&CS  
 **Kolbjorn Barrow**  

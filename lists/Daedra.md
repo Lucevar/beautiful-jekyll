@@ -12,4 +12,6 @@ Wabbajack
 ## Mephala
 Lots of Morag Tong!  
 
-  
+## Namira
+Cannibals of Morrowind
+The Forgotten

@@ -1,6 +1,7 @@
 Dungeons
 
 ## General Replacers
+**Lougian's Caverns Bumpmapped** - This makes such an incredible difference to the cave experience just on it's own.
 
 ## New Dungeons
 **Archnalteg** - M&C  
@@ -10,6 +11,7 @@ Dungeons
 **Mzurleft** - M&C  
 **Ruins of Sturmz-Surech** - M&C  
 **Vveb Cavern** - M&C  
+**Serpenthis Ancestral Tomb** - Serpenthis - this is a fun new dungeon with some interesting gameplay. Hope you enjoyed Sabrina's gym as a kid!  
 
 ## Ancestral Tombs
 **Alas Ancestral Tomb**  
@@ -18,7 +20,7 @@ Dungeons
 **Andalor Ancestral Tomb**  
 **Andas Ancestral Tomb**  
 **Andavel Ancestral Tomb**  
-**Andrano Ancestral Tomb**  - G7's Andrano Tomb Remastered
+**Andrano Ancestral Tomb** - G7's Andrano Tomb Remastered  
 **Andrethi Ancestral Tomb** - M&C  
 **Andules Ancestral Tomb**  
 **Aralen Ancestral Tomb**  
@@ -38,7 +40,7 @@ Dungeons
 **Drinith Ancestral Tomb**  
 **Dulo Ancestral Tomb**  
 **Fadathram Ancestral Tomb**  
-**Falas Ancestral Tomb**  
+**Falas Ancestral Tomb** - RTE  
 **Favel Ancestral Tomb**  
 **Foreign Quarter Tomb**  
 **Gimothran Ancestral Tomb**  
@@ -64,7 +66,7 @@ Dungeons
 **Nerano Ancestral Tomb**  
 **Norvayn Ancestral Tomb**  
 **Omalen Ancestral Tomb**  
-**Omaren Ancestral Tomb**  
+**Omaren Ancestral Tomb**
 **Orethi Ancestral Tomb**  
 **Othrelas Ancestral Tomb**  
 **Randas Ancestral Tomb**  
@@ -80,10 +82,10 @@ Dungeons
 **Salothan Ancestral Tomb**  
 **Salothran Ancestral Tomb**  
 **Salvel Ancestral Tomb**  
-**Samarys Ancestral Tomb**  
-**Sandas Ancestral Tomb**  
+**Samarys Ancestral Tomb** - Pikachuno  
+**Sandas Ancestral Tomb** - RTE  
 **Sandus Ancestral Tomb**  
-**Sarano Ancestral Tomb**  
+**Sarano Ancestral Tomb** - RTE  
 **Saren Ancestral Tomb**  
 **Sarethi Ancestral Tomb**  
 **Sarys Ancestral Tomb**  
@@ -95,7 +97,7 @@ Dungeons
 **Telvayn Ancestral Tomb**  
 **Thalas Ancestral Tomb**  
 **Tharys Ancestral Tomb**  
-**Thelas Ancestral Tomb**  
+**Thelas Ancestral Tomb** - RTE  
 **Thiralas Ancestral Tomb**  
 **Uveran Ancestral Tomb**  
 **Vandus Ancestral Tomb**  
@@ -210,7 +212,7 @@ Dungeons
 **Zergonipal**  
 
 ## Daedric Shrines - Mehrunes Dagon
-**Ald Sotha** - M&C  
+**Ald Sotha** - M&C, Severa Magia DB Fix  
 **Ashalmimilkala**  
 **Assarnatamat**  
 **Assernerairan**  
@@ -240,50 +242,50 @@ Dungeons
 **Zaintiraris**  
 
 ## Daedric Shrines - Misc
-**Anudnabia**  
+**Anudnabia** - Forge of Hilbongard  
 **Khartag Point**  
 **Magas Volar**  
-**Shrine of Azura**  
+**Shrine of Azura** - RR  
 **Shrine of Boethia**  
-**Shrine of Mephala**  
+**Shrine of Mephala** - Westly  
 
 ## Dunmer Strongholds
 **Andasreth**  
 **Berandas**  
 **Falasmaryon**  
-**Falensarano**  
+**Falensarano** - Ruins of Falensarano  
 **Hlormaren**  
 **Indoranyon**  
-**Kogoruhn** - DD  
-**Marandus**  
+**Kogoruhn** - DD, Kogoruhn Ruins  
+**Marandus** - LGNPC Pax Redoran  
 **Rotheran**  
 **Telasero**  
 **Valenvaryon**  
 
 ## Dwemer Ruins
-**Aleft** - DD  
+**Aleft** - DD, DRP  
 **Arkngthand** - DD  
-**Arkngthunch-Sturdumz**  
-**Bethamez**  
+**Arkngthunch-Sturdumz** - DRP  
+**Bethamez** - DRP  
 **Bthanchend**  
 **Bthuand**  
 **Bthungthumz**  
-**Dagoth Ur**  
+**Dagoth Ur** - Darknut  
 **Druscashti**  
-**Endusal**  
+**Endusal** - Trainwiz  
 **Galom Daeus**  
 **Mudan**  
-**Mzahnch**  
+**Mzahnch** - DRP  
 **Mzanchend**  
-**Mzuleft**  
+**Mzuleft** - DRP  
 **Nchardahrk**  
 **Nchardumz**  
-**Nchuleft**  
+**Nchuleft** - DRP  
 **Nchuleftingth**  
 **Nchurdamz**  
-**Odrosal**  
+**Odrosal** - Darknut  
 **Tureynulal** - Trainwiz  
-**Vemynal**  
+**Vemynal** - Darknut  
 
 ## Grottos
 **Akimaes Grotto** - M&C  
@@ -395,11 +397,11 @@ Dungeons
 **Eddard Barrow**  
 **Frosselmane Barrow**  
 **Glenschul's Tomb**  
-**Gyldenhul Barrow**  
+**Gyldenhul Barrow** - M&CS  
 **Himmelhost Barrow**  
 **Hrothmund's Barrow** - LCO(French)  
-**Jolgeirr Barrow**  
-**Kelsedolk Barrow**  
+**Jolgeirr Barrow** - M&CS  
+**Kelsedolk Barrow** - M&CS  
 **Kolbjorn Barrow**  
 **Lukesturm Barrow**  
 **Skogsdrake Barrow**  
@@ -412,18 +414,18 @@ Dungeons
 **Benkongerike** - LCO  
 **Bjorn** - LCO  
 **Caves of Fjalding** - LCO  
-**Cave of Hidden Music** - LCO   
+**Cave of Hidden Music** - LCO, M&CS   
 **Domme** - LCO   
 **Fjell** - LCO  
 **Frossel** - LCO  
 **Frykte** - LCO   
-**Gandrung Caverns** - LCO  
+**Gandrung Caverns** - LCO, M&CS  
 **Gloomy Cave** - LCO  
 **Gronn** - LCO  
 **Halls of Penumbra** - LCO  
 **Lair of the Udyrfrykte**  
 **Legge**  
-**Rimhull**  
+**Rimhull** - M&CS  
 **Sjobal**  
 **Skygge**  
 **Solvjord**  

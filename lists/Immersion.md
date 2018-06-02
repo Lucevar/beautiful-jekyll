@@ -27,8 +27,9 @@ Tavern Ambience
 Sunset & Sunrise Latitude  
 Controlled Consumption  
 MWSE Containers  
-Sound of Souls
-Proportional Progression
+Sound of Souls  
+Proportional Progression  
+Animated Containers  
 
 ## NPCs & Dialogue
 Starfires  
@@ -43,6 +44,8 @@ Hold It
 Dreamers Expansion  
 Farmers & Miners  
 Correspondences of Morrowind  
+Where are all the birds  
+Water Life  
 
 
 ## Clothes & Armour

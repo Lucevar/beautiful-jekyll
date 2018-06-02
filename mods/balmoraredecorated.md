@@ -1,7 +1,7 @@
 ---
 Title: Balmora Redecorated
+Subtitle: Balmora Redecorated 
 ---
-# Balmora Redecorated 
 
 ## [Balmora Redecorated](https://www.nexusmods.com/morrowind/mods/42580) at Morrowind Nexus
 

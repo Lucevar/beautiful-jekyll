@@ -1,7 +1,17 @@
-Dungeons
+---
+Title: Dungeons
+---
+This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribunal and Bloodmoon, at the bottom) separated by category. Next to the name of the cave is a list of mods that change it. Some mods change a lot of different caves; in that case I've generally just abbreviated the name rather than linking it every time. These include:  
+
+**Cavern Overhaul** by *Lougian* - Abbreviated as LCO  
+**Mines & Caverns** by *jsp25* - Abbreviated as M&C  
+**Mines & Caverns - Solstheim** by *jsp25* - Abbreviated as M&CS, only compatible with Wollibeebee's Tomb of the Snow Prince, not with vanilla. Use LCO's Solstheim changes if you don't use TOTSP.  
+**Detailed Dungeons** by *Eldermaster28* - Abbreviated as DD.   
+
+**If you're aware of any mods that change these locations but aren't listed here, please let me know! I can be contacted as Lucevar at the Morrowind Nexus or on the Morrowind Modding Discord (linked above)**.  
 
 ## General Replacers
-**Lougian's Caverns Bumpmapped** - This makes such an incredible difference to the cave experience just on it's own.
+**Lougian's Caverns Bumpmapped** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled.
 
 ## New Dungeons
 **Archnalteg** - M&C  

@@ -23,24 +23,15 @@ description: Morrowind is great! Here are some mod suggestions to make it even b
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
   My Mods:
     - Clear Your Name: "mods/clearyourname"
     - Balmora Redecorated: "mods/balmoraredecorated"
     - Caldera Guild of Mages: "mods/calderagom"
   Guides:
-    - Setting Up Modded MW: "guides/settingup"
-    - Replacers: "guides/Replacers"
     - Dungeons: "guides/Dungeons"
-    - Landscape Mods: "guides/Landscapes"
-    - City Mods: "guides/Cities"
   Themed Mod Lists:
     - Immersion: "lists/Immersion"
     - Daedra: "lists/Daedra"
-  Discord Wisdom:
-    - Blender: "discord/Blender"
-    - CS: "discord/CS"
-    - MWSE/Lua: "discord/MWSE"
   MW Mod Discord: "https://discord.gg/stuvGsC"
 
 # Image to show in the navigation bar - image must be a square (width = height)

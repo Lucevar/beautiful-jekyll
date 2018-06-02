@@ -81,7 +81,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Nerano Ancestral Tomb**  
 **Norvayn Ancestral Tomb**  
 **Omalen Ancestral Tomb**  
-**Omaren Ancestral Tomb**
+**Omaren Ancestral Tomb**  
 **Orethi Ancestral Tomb**  
 **Othrelas Ancestral Tomb**  
 **Randas Ancestral Tomb**  

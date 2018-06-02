@@ -2,7 +2,7 @@
 Title: Balmora Redecorated
 ---
 
-## [Balmora Redecorated](https://www.nexusmods.com/morrowind/mods/42580)
+## [Balmora Redecorated](https://www.nexusmods.com/morrowind/mods/42580) at Morrowind Nexus
 
 ![Image of Astius Hanotepelus' House](https://staticdelivery.nexusmods.com/mods/100/images/42580-3-1421241613.png)
 
@@ -44,9 +44,9 @@ The mod also adds one book object and changes the path grid for 5 cells to accom
 
 I haven't changed any of the taverns in Balmora. Instead, I recommend the following mods:
 
-[**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-44-13449) by *Balastruthius*
-[**The Seedy Plates**](https://www.nexusmods.com/morrowind/mods/19006) by *Von Django*
-[**Lucky Lockup Additions**](http://mw.modhistory.com/download-55-12549) by *Midgetalien*
+[**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-44-13449) by *Balastruthius*  
+[**The Seedy Plates**](https://www.nexusmods.com/morrowind/mods/19006) by *Von Django*  
+[**Lucky Lockup Additions**](http://mw.modhistory.com/download-55-12549) by *Midgetalien*  
 
 
 ### Compatibility:

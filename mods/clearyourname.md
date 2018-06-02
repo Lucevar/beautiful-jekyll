@@ -2,7 +2,7 @@
 Title: Clear Your Name
 ---
 
-## [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786)
+## [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786) at Morrowind Nexus
 
 ![Nolus Atrius Dialogue from Clear Your Name](https://staticdelivery.nexusmods.com/mods/100/images/43786-2-1438997064.png)
 
@@ -13,7 +13,7 @@ stuff. He also has some custom dialogue and if you ask him about rumours, he'll 
 
 Members of House Hlaalu and House Telvanni have a slightly better option - they can talk to Odral Helvi or Fast Eddie and have their bounties removed at the same discount as Thieves Guild members, providing they meet a few conditions. House Redoran takes a dim view of such things, though, and members of that House will just have to talk to Nolus. That's the price of honour, I'm afraid.
 
-**House Telvanni** - Once you've recruited Eddie as your mouth, talk to him any time you need your name cleared.
+**House Telvanni** - Once you've recruited Eddie as your mouth, talk to him any time you need your name cleared.  
 **House Hlaalu** - Players of rank Lawman or above can ask Odral Helvi in the Governor's Hall in Caldera to clear their name. He needs to like you first, though (Disposition 70 required).
 
 For members of the **Blades** - none of them will risk their cover to sort out your problems, but they'll direct you to people who can help if you ask while you have a price on your head.

@@ -1,8 +1,7 @@
 ---
 Title: Clear Your Name
+Sub-title: Clear Your Name
 ---
-
-# Clear Your Name
 
 ## [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786) at Morrowind Nexus
 

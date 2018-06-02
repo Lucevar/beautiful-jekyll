@@ -3,7 +3,7 @@ Title: Balmora Redecorated
 Subtitle: Balmora Redecorated
 ---
 
-####[Balmora Redecorated](https://www.nexusmods.com/morrowind/mods/42580) at Morrowind Nexus
+**[Balmora Redecorated](https://www.nexusmods.com/morrowind/mods/42580)** at Morrowind Nexus
 
 ![Image of Astius Hanotepelus' House](https://staticdelivery.nexusmods.com/mods/100/images/42580-3-1421241613.png)
 

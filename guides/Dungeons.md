@@ -133,7 +133,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Ainab**  
 **Ainat** - LCO, M&C  
 **Ansi** - LCO, M&C  
-**Ashanammu** - LCO, [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194)
+**Ashanammu** - LCO, [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194)  
 **Ashinabi** - LCO  
 **Ashirbadon** - LCO  
 **Ashir-Dan** - LCO  
@@ -168,7 +168,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Milk** - LCO, M&C  
 **Minabi** - LCO, M&C  
 **Missamsi** - M&C  
-**Mount Kand, Cavern** - M&C
+**Mount Kand, Cavern** - M&C  
 **Nallit** - LCO  
 **Nammu** - LCO, M&C  
 **Nissintu** - LCO, M&C  

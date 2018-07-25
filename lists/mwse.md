@@ -3,6 +3,8 @@ First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the 
 
 This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mods. Unless otherwise stated I don't vouch for quality or compatibility.  
 
+If a mod requires both MGE and MWSE I usually categorise it under MWSE.  
+
 ## MWSE-Lua (2.1+)
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Aka Modder's Delight. Even with the Code Patch Morrowind often crashes on exit, requiring you to kill the process in task manager just to get out of it. It's an irritating waste of time when you're playing, and even worse when you're testing mods and quitting Morrowind 10+ times an hour. This mod squashes that crash, making exiting as quick and easy as it always should have been.  
@@ -91,10 +93,16 @@ Autolaunches Sky Diversity so you don't have to remember to do it manually every
 A quest mod dealing with a cult of Namira, with options to side with the cultists or the ordinators.  
 
 
-## MGE Mods (including shader sets)
-Coming soon.
+## MGE XE Mods (including shader sets)
+[**Enhanced Water Shader for MGE XE](https://www.nexusmods.com/morrowind/mods/45432) by Krokantor - new water shaders with green/non-green options.  
+[**Purple HaZe MGE XE Palette Collection**](https://www.nexusmods.com/morrowind/mods/44223) by Psijonica  
+[**MGE XE Red Hand Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/42636) by Mr Magic  
+[**The Bauglette Palette for MGE XE**](https://www.nexusmods.com/morrowind/mods/44316) by Bauglir  
+[**MGE XE Green Water Fix**](https://www.nexusmods.com/morrowind/mods/45132) by KetGolosov  
+[**Opponent Fatigue Indicator - MGE XE Compatible**](https://www.nexusmods.com/morrowind/mods/44363) by Tyler799 - adds a status bar to enemies indicating their current fatigue level, similar to health bars.  
+[**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and Vtastek - adds earthquakes to volcanically active regions of Vvardenfell such as the ashlands.  
 
-## Old MGE/MWSE (<= 2.0) (may or may not work with newer versions of MWSE)
+## Old MGE/MWSE (<= 2.0) (should still work with MWSE2.1+, but these mods don't use Lua.)
 [**MCC Leveller**](https://www.nexusmods.com/morrowind/mods/44294) by mg79 - Skills based smooth levelling similar to GCD, where multiple skills contribute to attribute level ups. State-based health. Skills decay if you don't use them for long periods of time.  
 [**The Ash Pit**](https://www.nexusmods.com/morrowind/mods/45195) by Team Horny Skulls - adds the Ash Fighters, an arena-based fighting faction with unique combat encounters and quests.  
 [**Funny Farm Friends**](https://www.nexusmods.com/morrowind/mods/44689) by Team Green Cow - adds unique companion creatures & combat encounters.  
@@ -103,7 +111,7 @@ Coming soon.
 [**Rattle-Teeth Manor**](https://www.nexusmods.com/morrowind/mods/44634) by Team Green Cow - a necromancy themed player home with scripted features.  
 [**Quick Loot**](https://www.nexusmods.com/morrowind/mods/44258) by mg79 - adds several new options for looting containers conveniently.  
 [**MWSE Containers**](https://www.nexusmods.com/morrowind/mods/44387) by Greatness7 - adds new containers for sale that make managing your inventory a lot easier, while maintaining proper encumbrance.  
-[**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, and TheDrunkenMudcrab - A quest mod that adds a new dwemer ruin to explore. Has a number of innovative quests and rewards, plus entertaining characters.
+[**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, and TheDrunkenMudcrab - A quest mod that adds a new dwemer ruin to explore. Has a number of innovative quests and rewards, plus entertaining characters.  
 [**Melian's Teleport Mod**]() by Melian - expands the mark and recall system, allows for multi-marks, and adds a spell to teleport companions to you if they get lost.  
 [**MWSE Melee Missile**](https://www.nexusmods.com/morrowind/mods/1574) by Scruggs - allows you to use Cast-On-Target enchantments on weapons without putting your weapon away first.  
 [**Graphic Herbalism - Ownership MWSE Addon**](https://www.nexusmods.com/morrowind/mods/43433) by Skrawafunda - removes an exploit available in Graphic Herbalism that allowed you to steal from owned plants without incurring a bounty.  

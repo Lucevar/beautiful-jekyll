@@ -87,6 +87,8 @@ Adds new services to enchanters, including the ability to recharge enchanted ite
 [**MWSE2.1 Sky Diversity Auto Launch Add On**](https://www.nexusmods.com/morrowind/mods/45600) by svengineer99  
 Autolaunches Sky Diversity so you don't have to remember to do it manually every time you want to play.  
 
+## MGE Mods (including shader sets)
+Coming soon.
 
 ## Old MGE/MWSE (<= 2.0) (may or may not work with newer versions of MWSE)
 [**MWSE Containers**](https://www.nexusmods.com/morrowind/mods/44387) by Greatness7 - adds new containers for sale that make managing your inventory a lot easier, while maintaining proper encumbrance.  

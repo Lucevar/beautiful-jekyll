@@ -87,11 +87,10 @@ Adds new services to enchanters, including the ability to recharge enchanted ite
 [**MWSE2.1 Sky Diversity Auto Launch Add On**](https://www.nexusmods.com/morrowind/mods/45600) by svengineer99  
 Autolaunches Sky Diversity so you don't have to remember to do it manually every time you want to play.  
 
-[**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, and TheDrunkenMudcrab   
-A quest mod that adds a new dwemer ruin to explore. Has a number of innovative quests and rewards, plus entertaining characters.
 
 ## Old MGE/MWSE (<= 2.0) (may or may not work with newer versions of MWSE)
 [**MWSE Containers**](https://www.nexusmods.com/morrowind/mods/44387) by Greatness7 - adds new containers for sale that make managing your inventory a lot easier, while maintaining proper encumbrance.  
+[**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, and TheDrunkenMudcrab - A quest mod that adds a new dwemer ruin to explore. Has a number of innovative quests and rewards, plus entertaining characters.
 [**Melian's Teleport Mod**]() by Melian - expands the mark and recall system, allows for multi-marks, and adds a spell to teleport companions to you if they get lost.  
 [**MWSE Melee Missile**](https://www.nexusmods.com/morrowind/mods/1574) by Scruggs - allows you to use Cast-On-Target enchantments on weapons without putting your weapon away first.  
 [**Graphic Herbalism - Ownership MWSE Addon**](https://www.nexusmods.com/morrowind/mods/43433) by Skrawafunda - removes an exploit available in Graphic Herbalism that allowed you to steal from owned plants without incurring a bounty.  

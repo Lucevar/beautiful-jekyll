@@ -6,36 +6,89 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 ## MWSE-Lua (2.1+)
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Aka Modder's Delight. Even with the Code Patch Morrowind often crashes on exit, requiring you to kill the process in task manager just to get out of it. It's an irritating waste of time when you're playing, and even worse when you're testing mods and quitting Morrowind 10+ times an hour. This mod squashes that crash, making exiting as quick and easy as it always should have been.  
+
 [**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627) by NullCascade  
 A simple mod that auto-loots plants when you activate them, instead of opening it as a container. Compatible with mod added plants as well. It doesn't affect scripted plants, so it's compatible with mods like Graphic Herbalism, which simply override Happy Harvesting.  
+
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) by NullCascade  
 Drastically expands and improves the save system, including autosaves on cell changes. No more playing for hours, crashing, and then realising that your last save was three hours and ten quests back!  
-[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade - changes the mechanics of how many potions a player can drink. In vanilla, the player is allowed to drink infinite potions with no negative effects, leading to easy alchemy exploits. Offers two options: limit the player to one potion per five seconds, or an Oblivion-style option that allows the player to have only four potions active at once.  
-[**Dynamic Difficulty**](https://www.nexusmods.com/morrowind/mods/45710) by NullCascade - Configurable difficulty. You can change the base difficulty, make the game harder or easier as you level up, or set the difficulty per region (so you could make the Bitter Coast very easy but the Ashlands much more dangerous, for example).  
-[**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712) by NullCascade - Vanilla escort quests are a nightmare because of the terrible pathfinding AI. This mod keeps followers close to you and ensures they don't get stuck on a rock in the ashlands somewhere.  
-[**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717) by NullCascade - When combat begins, your companions will start to defend you immediately, instead of waiting for you to be attacked first. A real lifesaver if that enemy is going to kill you in one hit and you can't afford to wait!  
-[**Proportional Progression**](https://www.nexusmods.com/morrowind/mods/45697) by NullCascade - allows you to easily adjust the progression rate to make leveling skills slower/faster, based on a number of different factors.  
-[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) by NullCascade - provides an in-game alert if you're close to reaching the 4GB memory limit, so that you can save and restart in time to prevent a crash.  
-[**Permanently Perished**](https://www.nexusmods.com/morrowind/mods/45672) by NullCascade - adds an optional permadeath mechanic. When you start a new game, you'll be asked how many lives your character gets (defaulting to 1; you can choose not to use permadeath on any given save). Once your lives are used up, you can no longer load that character's saves, and attempting to will start a new game instead.  
-[**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657) by NullCascade - adds a chance for soul gems to emit a sound from the creature whose soul they contained. Very atmospheric. *Very* creepy.  
-[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7 - Adds a new poison mechanic similar to Oblivion and Skyrim's. NPCs can use poison as well! Also allows you to use apparatus in-world rather than having to pick it up and use it from your inventory, and a new alchemy mode where better apparatus decreases positive effects rather than negative so you can craft your own poisons.  
+
+[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade
+Changes the mechanics of how many potions a player can drink. In vanilla, the player is allowed to drink infinite potions with no negative effects, leading to easy alchemy exploits. Offers two options: limit the player to one potion per five seconds, or an Oblivion-style option that allows the player to have only four potions active at once.  
+
+[**Dynamic Difficulty**](https://www.nexusmods.com/morrowind/mods/45710) by NullCascade  
+Configurable difficulty. You can change the base difficulty, make the game harder or easier as you level up, or set the difficulty per region (so you could make the Bitter Coast very easy but the Ashlands much more dangerous, for example).  
+
+[**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712) by NullCascade
+Vanilla escort quests are a nightmare because of the terrible pathfinding AI. This mod keeps followers close to you and ensures they don't get stuck on a rock in the ashlands somewhere.  
+
+[**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717) by NullCascade  
+When combat begins, your companions will start to defend you immediately, instead of waiting for you to be attacked first. A real lifesaver if that enemy is going to kill you in one hit and you can't afford to wait!  
+
+[**Proportional Progression**](https://www.nexusmods.com/morrowind/mods/45697) by NullCascade  
+Allows you to easily adjust the progression rate to make leveling skills slower/faster, based on a number of different factors.  
+
+[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) by NullCascade  
+Provides an in-game alert if you're close to reaching the 4GB memory limit, so that you can save and restart in time to prevent a crash.  
+
+[**Permanently Perished**](https://www.nexusmods.com/morrowind/mods/45672) by NullCascade  
+Adds an optional permadeath mechanic. When you start a new game, you'll be asked how many lives your character gets (defaulting to 1; you can choose not to use permadeath on any given save). Once your lives are used up, you can no longer load that character's saves, and attempting to will start a new game instead.  
+
+[**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657) by NullCascade  
+Adds a chance for soul gems to emit a sound from the creature whose soul they contained. Very atmospheric. *Very* creepy.  
+
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
+Adds a new poison mechanic similar to Oblivion and Skyrim's. NPCs can use poison as well! Also allows you to use apparatus in-world rather than having to pick it up and use it from your inventory, and a new alchemy mode where better apparatus decreases positive effects rather than negative so you can craft your own poisons.  
+
 [**Lights Fix for Vtastek's PPL shaders**]() by Greatness7  
-[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk & NullCascade - The most up-to-date and feature rich version of Windows Glow. Includes much more subtle and aesthetically pleasing windows glow, randomly spaced lighting so not every window turns on precisely at dusk and off precisely at dawn, and automatic compatibility with mods using vanilla meshes (such as Tamriel Rebuilt). No more need for infinite patches just to make your windows light up!  
-[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord - Do more damage when stabbing an enemy from behind (NPCs can also backstab - beware turning your back!).  
-[**Automated Ammo Equip**](https://www.nexusmods.com/morrowind/mods/45845) by Merlord - Ever want to use both crossbows and regular bows, but get annoyed at having to remember to switch ammo type? This automates it for you.  
-[**Frostwind**](https://www.nexusmods.com/morrowind/mods/45654) by Merlord - the immersion and survival mod to end all others. Similar to (and inspired by) the Skyrim mod *Frostfall*, it adds weather exposure, hunger, tiredness, and thirst mechanics, while aiming to reward sensible travellers rather than punish bad micromanagement - which makes it, in my experience, much less tedious to play with than any other needs mod.  
-[**Magnum Menu Textures**](https://www.nexusmods.com/morrowind/mods/45859) by Petethegoat - Improved main menu buttons, with support for MWSE's Mod Configuration Menu.  
-[**Pete's Lua GMST config**](https://www.nexusmods.com/morrowind/mods/45818) by Petethegoat  - Allows you to set GMSTs without having to use an .esp slot - and allows you to hot reload them in game for testing purposes.  
-[**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747) by Remiros - adds 'C' as a dedicated hotkey for light sources. Pressing C will equip/unequip the first light source in your inventory, prioritising lights that have already been used. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons. Super convenient!  
-[**Lucky Strike**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero - adds a luck based critical strike mechanic similar to Daggerfall. Works for PCs and NPCs.  
-[**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-Zero - enables the transfer of diseases from PCs to NPCs. Now you can be the Nurgling you always wanted to be!  
-[**Putting Power in Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero - Willpower is described as affecting your abilities to resist spells, but in vanilla it is bugged and doesn't work. This mod enables it, for PCs and NPCs.  
-[**Time Flies!**](https://www.nexusmods.com/morrowind/mods/45727) by cptjoker - In vanilla Morrowind, time is frozen while you're in a menu, such as the dialogue window or while reading a book. This mod makes time pass while you're in those menus. Now if you spend all night talking to Hassour Zainsubani about Ashlander customs, it really does take all night!  
-[**Vaba-Amus Companion Character**](https://www.nexusmods.com/morrowind/mods/45711) by TheDrunkenMudcrab - adds a drunken scrib to Suran, just outside Desele's. If you choose to talk to him, you'll be in for some wacky and hilarious adventures - that fit in to lore surprisingly well.  
-[**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7 - You can now filter ingredients based on their effects.  
-[**MWSE 2.1 Enchantment Services**](https://www.nexusmods.com/morrowind/mods/45554) by svengineer99 - Adds new services to enchanters, including the ability to recharge enchanted items and making additional copies of scrolls.  
-[**MWSE2.1 Sky Diversity Auto Launch Add On**](https://www.nexusmods.com/morrowind/mods/45600) by svengineer99 - autolaunches Sky Diversity so you don't have to remember to do it manually every time you want to play.  
-[**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, and TheDrunkenMudcrab - a quest mod that adds a new dwemer ruin to explore. Has a number of innovative quests and rewards, plus entertaining characters.
+
+[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk & NullCascade  
+The most up-to-date and feature rich version of Windows Glow. Includes much more subtle and aesthetically pleasing windows glow, randomly spaced lighting so not every window turns on precisely at dusk and off precisely at dawn, and automatic compatibility with mods using vanilla meshes (such as Tamriel Rebuilt). No more need for infinite patches just to make your windows light up!  
+
+[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
+Do more damage when stabbing an enemy from behind (NPCs can also backstab - beware turning your back!).  
+
+[**Automated Ammo Equip**](https://www.nexusmods.com/morrowind/mods/45845) by Merlord  
+Ever want to use both crossbows and regular bows, but get annoyed at having to remember to switch ammo type? This automates it for you.  
+
+[**Frostwind**](https://www.nexusmods.com/morrowind/mods/45654) by Merlord  
+The immersion and survival mod to end all others. Similar to (and inspired by) the Skyrim mod *Frostfall*, it adds weather exposure, hunger, tiredness, and thirst mechanics, while aiming to reward sensible travellers rather than punish bad micromanagement - which makes it, in my experience, much less tedious to play with than any other needs mod.  
+
+[**Magnum Menu Textures**](https://www.nexusmods.com/morrowind/mods/45859) by Petethegoat  
+Improved main menu buttons, with support for MWSE's Mod Configuration Menu.  
+
+[**Pete's Lua GMST config**](https://www.nexusmods.com/morrowind/mods/45818) by Petethegoat  
+Allows you to set GMSTs without having to use an .esp slot - and allows you to hot reload them in game for testing purposes.  
+
+[**Torch Hotkey**](https://www.nexusmods.com/morrowind/mods/45747) by Remiros  
+Adds 'C' as a dedicated hotkey for light sources. Pressing C will equip/unequip the first light source in your inventory, prioritising lights that have already been used. It will also re-equip previously equipped shields, two-handed weapons and ranged weapons. Super convenient!  
+
+[**Lucky Strike**](https://www.nexusmods.com/morrowind/mods/45765) by R-Zero  
+Adds a luck based critical strike mechanic similar to Daggerfall. Works for PCs and NPCs.  
+
+[**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-Zero  
+Enables the transfer of diseases from PCs to NPCs. Now you can be the Nurgling you always wanted to be!  
+
+[**Putting Power in Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
+Willpower is described as affecting your abilities to resist spells, but in vanilla it is bugged and doesn't work. This mod enables it, for PCs and NPCs.  
+
+[**Time Flies!**](https://www.nexusmods.com/morrowind/mods/45727) by cptjoker  
+In vanilla Morrowind, time is frozen while you're in a menu, such as the dialogue window or while reading a book. This mod makes time pass while you're in those menus. Now if you spend all night talking to Hassour Zainsubani about Ashlander customs, it really does take all night!  
+
+[**Vaba-Amus Companion Character**](https://www.nexusmods.com/morrowind/mods/45711) by TheDrunkenMudcrab  
+Adds a drunken scrib to Suran, just outside Desele's. If you choose to talk to him, you'll be in for some wacky and hilarious adventures - that fit in to lore surprisingly well.  
+
+[**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
+You can now filter ingredients based on their effects.  
+
+[**MWSE 2.1 Enchantment Services**](https://www.nexusmods.com/morrowind/mods/45554) by svengineer99  
+Adds new services to enchanters, including the ability to recharge enchanted items and making additional copies of scrolls.  
+
+[**MWSE2.1 Sky Diversity Auto Launch Add On**](https://www.nexusmods.com/morrowind/mods/45600) by svengineer99  
+Autolaunches Sky Diversity so you don't have to remember to do it manually every time you want to play.  
+
+[**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, and TheDrunkenMudcrab   
+A quest mod that adds a new dwemer ruin to explore. Has a number of innovative quests and rewards, plus entertaining characters.
 
 ## Old MGE/MWSE (<= 2.0) (may or may not work with newer versions of MWSE)
 [**MWSE Containers**](https://www.nexusmods.com/morrowind/mods/44387) by Greatness7 - adds new containers for sale that make managing your inventory a lot easier, while maintaining proper encumbrance.  

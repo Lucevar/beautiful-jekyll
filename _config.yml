@@ -27,9 +27,9 @@ navbar-links:
     - Clear Your Name: "mods/clearyourname"
     - Balmora Redecorated: "mods/balmoraredecorated"
     - Caldera Guild of Mages: "mods/calderagom"
-  Guides:
+  Lists:
     - Dungeons: "guides/Dungeons"
-  Themed Mod Lists (WIP):
+    - MWSE Mods: "lists/mwse"
   MW Mod Discord: "https://discord.gg/stuvGsC"
 
 # Image to show in the navigation bar - image must be a square (width = height)

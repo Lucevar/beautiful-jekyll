@@ -136,8 +136,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Ashanammu** - LCO, [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194)  
 **Ashinabi** - LCO  
 **Ashirbadon** - LCO  
-**Ashir-Dan** - LCO  
-**Ashmelech** - [Ashmelech Reborn](https://www.nexusmods.com/morrowind/mods/45648) by *istreddify*  
+**Ashir-Dan** - LCO    
 **Assarnud** - LCO  
 **Assemanu** - LCO  
 **Assu** - LCO  
@@ -369,6 +368,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 
 ## Velothi Towers
 **Ald Redaynia**  
+**Ashmelech** - [Ashmelech Reborn](https://www.nexusmods.com/morrowind/mods/45648) by *istreddify*
 **Arvs-Drelen**  
 **Hanud**  
 **Mababi**  
@@ -430,13 +430,13 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Bjorn** - LCO  
 **Caves of Fjalding** - LCO  
 **Cave of Hidden Music** - LCO, M&CS   
-**Domme** - LCO   
+**Domme** - [From Ash to Frost](https://www.nexusmods.com/morrowind/mods/45254) by *Team Horny Skulls*, LCO   
 **Fjell** - LCO  
 **Frossel** - LCO  
 **Frykte** - LCO   
 **Gandrung Caverns** - LCO, M&CS  
 **Gloomy Cave** - LCO  
-**Gronn** - LCO  
+**Gronn** - [From Ash to Frost](https://www.nexusmods.com/morrowind/mods/45254) by *Team Horny Skulls*, LCO  
 **Halls of Penumbra** - LCO  
 **Lair of the Udyrfrykte**  
 **Legge**  

@@ -87,10 +87,21 @@ Adds new services to enchanters, including the ability to recharge enchanted ite
 [**MWSE2.1 Sky Diversity Auto Launch Add On**](https://www.nexusmods.com/morrowind/mods/45600) by svengineer99  
 Autolaunches Sky Diversity so you don't have to remember to do it manually every time you want to play.  
 
+[**The Forgotten**](https://www.nexusmods.com/morrowind/mods/45733) by Team Horny Skulls  
+A quest mod dealing with a cult of Namira, with options to side with the cultists or the ordinators.  
+
+
 ## MGE Mods (including shader sets)
 Coming soon.
 
 ## Old MGE/MWSE (<= 2.0) (may or may not work with newer versions of MWSE)
+[**MCC Leveller**](https://www.nexusmods.com/morrowind/mods/44294) by mg79 - Skills based smooth levelling similar to GCD, where multiple skills contribute to attribute level ups. State-based health. Skills decay if you don't use them for long periods of time.  
+[**The Ash Pit**](https://www.nexusmods.com/morrowind/mods/45195) by Team Horny Skulls - adds the Ash Fighters, an arena-based fighting faction with unique combat encounters and quests.  
+[**Funny Farm Friends**](https://www.nexusmods.com/morrowind/mods/44689) by Team Green Cow - adds unique companion creatures & combat encounters.  
+[**Dreams of the Drunken Mudcrab**](https://www.nexusmods.com/morrowind/mods/44669) by Team Green Cow - Quest mod with unique scripted sequences.  
+[**Suvanto's Wondrous Shop of Curious Creations**](https://www.nexusmods.com/morrowind/mods/44654) by Team Green Cow - Adds unique scripted items.
+[**Rattle-Teeth Manor**](https://www.nexusmods.com/morrowind/mods/44634) by Team Green Cow - a necromancy themed player home with scripted features.
+[**Quick Loot**](https://www.nexusmods.com/morrowind/mods/44258) by mg79 - adds several new options for looting containers conveniently.  
 [**MWSE Containers**](https://www.nexusmods.com/morrowind/mods/44387) by Greatness7 - adds new containers for sale that make managing your inventory a lot easier, while maintaining proper encumbrance.  
 [**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, and TheDrunkenMudcrab - A quest mod that adds a new dwemer ruin to explore. Has a number of innovative quests and rewards, plus entertaining characters.
 [**Melian's Teleport Mod**]() by Melian - expands the mark and recall system, allows for multi-marks, and adds a spell to teleport companions to you if they get lost.  

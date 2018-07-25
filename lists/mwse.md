@@ -94,7 +94,7 @@ A quest mod dealing with a cult of Namira, with options to side with the cultist
 
 
 ## MGE XE Mods (including shader sets)
-[**Enhanced Water Shader for MGE XE](https://www.nexusmods.com/morrowind/mods/45432) by Krokantor - new water shaders with green/non-green options.  
+[**Enhanced Water Shader for MGE XE**](https://www.nexusmods.com/morrowind/mods/45432) by Krokantor - new water shaders with green/non-green options.  
 [**Purple HaZe MGE XE Palette Collection**](https://www.nexusmods.com/morrowind/mods/44223) by Psijonica  
 [**MGE XE Red Hand Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/42636) by Mr Magic  
 [**The Bauglette Palette for MGE XE**](https://www.nexusmods.com/morrowind/mods/44316) by Bauglir  
@@ -145,7 +145,7 @@ A quest mod dealing with a cult of Namira, with options to side with the cultist
 [**Improved Hand-to-Hand**](http://download.fliggerty.com/download-110-28) by Fliggerty - hand to hand does health damage instead of fatigue damage.  
 [**Magicka Metamorphica**](http://download.fliggerty.com/download-110-27) by Fliggerty - adds a spell that lets you create soul gems from items in your inventory.  
 [**Enhanced Detection**](http://download.fliggerty.com/download-110-26) by Fliggerty - improves the detect creature/humanoid line of spells, and adds several new spells such as Detect Enemy, Detect Opposite Gender, Detect Treasure, etc.  
-[**No Trainers**]() by Fliggerty
+[**No Trainers**]() by Fliggerty  
 [**Inventory Search**](http://download.fliggerty.com/download-110-23) by Fliggerty - allows you to search your inventory.  
 [**Keyring**](http://download.fliggerty.com/download-110-22) by Fliggerty - adds a keyring you can store your keys on, so they don't clutter your inventory.  
 [**Avenge your death!**](http://download.fliggerty.com/download-110-21) by Fliggerty - when you die, you instead become a ghost and can try to make your way back to your body.  

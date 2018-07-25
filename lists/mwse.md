@@ -4,9 +4,12 @@ First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the 
 This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mods. Unless otherwise stated I don't vouch for quality or compatibility.  
 
 ## MWSE-Lua (2.1+)
-[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade - aka Modder's Delight. Even with the Code Patch Morrowind often crashes on exit, requiring you to kill the process in task manager just to get out of it. It's an irritating waste of time when you're playing, and even worse when you're testing mods and quitting Morrowind 10+ times an hour. This mod squashes that crash, making exiting as quick and easy as it always should have been.  
-[**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627) by NullCascade - a simple mod that auto-loots plants when you activate them, instead of opening it as a container. Compatible with mod added plants as well. It doesn't affect scripted plants, so it's compatible with mods like Graphic Herbalism, which simply override Happy Harvesting.  
-[**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) by NullCascade - drastically expands and improves the save system, including autosaves on cell changes. No more playing for hours, crashing, and then realising that your last save was three hours and ten quests back!  
+[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
+Aka Modder's Delight. Even with the Code Patch Morrowind often crashes on exit, requiring you to kill the process in task manager just to get out of it. It's an irritating waste of time when you're playing, and even worse when you're testing mods and quitting Morrowind 10+ times an hour. This mod squashes that crash, making exiting as quick and easy as it always should have been.  
+[**Happy Harvesting**](https://www.nexusmods.com/morrowind/mods/45627) by NullCascade  
+A simple mod that auto-loots plants when you activate them, instead of opening it as a container. Compatible with mod added plants as well. It doesn't affect scripted plants, so it's compatible with mods like Graphic Herbalism, which simply override Happy Harvesting.  
+[**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) by NullCascade  
+Drastically expands and improves the save system, including autosaves on cell changes. No more playing for hours, crashing, and then realising that your last save was three hours and ten quests back!  
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade - changes the mechanics of how many potions a player can drink. In vanilla, the player is allowed to drink infinite potions with no negative effects, leading to easy alchemy exploits. Offers two options: limit the player to one potion per five seconds, or an Oblivion-style option that allows the player to have only four potions active at once.  
 [**Dynamic Difficulty**](https://www.nexusmods.com/morrowind/mods/45710) by NullCascade - Configurable difficulty. You can change the base difficulty, make the game harder or easier as you level up, or set the difficulty per region (so you could make the Bitter Coast very easy but the Ashlands much more dangerous, for example).  
 [**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712) by NullCascade - Vanilla escort quests are a nightmare because of the terrible pathfinding AI. This mod keeps followers close to you and ensures they don't get stuck on a rock in the ashlands somewhere.  
@@ -28,7 +31,7 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 [**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-Zero - enables the transfer of diseases from PCs to NPCs. Now you can be the Nurgling you always wanted to be!  
 [**Putting Power in Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero - Willpower is described as affecting your abilities to resist spells, but in vanilla it is bugged and doesn't work. This mod enables it, for PCs and NPCs.  
 [**Time Flies!**](https://www.nexusmods.com/morrowind/mods/45727) by cptjoker - In vanilla Morrowind, time is frozen while you're in a menu, such as the dialogue window or while reading a book. This mod makes time pass while you're in those menus. Now if you spend all night talking to Hassour Zainsubani about Ashlander customs, it really does take all night!  
-[**Vaba-Amus Companion Character**](https://www.nexusmods.com/morrowind/mods/45711) by TheDrunkenMudcrab - adds a drunken scrib to Suran, just outside Desele's. If you choose to talk to him, you'll be in for some wacky and hilarious adventures - that fit in to lore surprisingly well.
+[**Vaba-Amus Companion Character**](https://www.nexusmods.com/morrowind/mods/45711) by TheDrunkenMudcrab - adds a drunken scrib to Suran, just outside Desele's. If you choose to talk to him, you'll be in for some wacky and hilarious adventures - that fit in to lore surprisingly well.  
 [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7 - You can now filter ingredients based on their effects.  
 [**MWSE 2.1 Enchantment Services**](https://www.nexusmods.com/morrowind/mods/45554) by svengineer99 - Adds new services to enchanters, including the ability to recharge enchanted items and making additional copies of scrolls.  
 [**MWSE2.1 Sky Diversity Auto Launch Add On**](https://www.nexusmods.com/morrowind/mods/45600) by svengineer99 - autolaunches Sky Diversity so you don't have to remember to do it manually every time you want to play.  
@@ -92,7 +95,7 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 ## MWE (Morrowind Enhanced) Mods - deprecated
 [**Morrowind Decapitated**](http://download.fliggerty.com/download-110-167) by Fliggerty - removes skill caps. NOT a mod that lets you decapitate enemies!  
-[**Encumbrance Enhanced**](http://download.fliggerty.com/download-110-9) by Fliggerty - athletics skill increases faster when the player is heavily encumbered.
-[**Journal Enhanced**]()
-[**Writing Enhanced**]()
-[**Combat Enhanced**]()
+[**Encumbrance Enhanced**](http://download.fliggerty.com/download-110-9) by Fliggerty - athletics skill increases faster when the player is heavily encumbered.  
+[**Journal Enhanced**]()  
+[**Writing Enhanced**]()  
+[**Combat Enhanced**]()  

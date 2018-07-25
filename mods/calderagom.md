@@ -2,6 +2,8 @@
 
 ![Caldera Guild of Mages WIP](https://78.media.tumblr.com/206dee5aaf63c01426e116cfa3046912/tumblr_nt938t4KCj1ubzdr7o2_1280.png)
 
+Download the mod at Morrowind Nexus - [**Caldera Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/45750)  
+
 Caldera's Mages Guild always seemed a little bit... forgotten about. It had no quests, nowhere to sleep, nothing to do. In short, it was boring.  
 
 This mod fixes at least some of those issues by adding new areas + quests.

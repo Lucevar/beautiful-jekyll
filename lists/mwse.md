@@ -101,9 +101,12 @@ A quest mod dealing with a cult of Namira, with options to side with the cultist
 [**MGE XE Green Water Fix**](https://www.nexusmods.com/morrowind/mods/45132) by KetGolosov  
 [**Opponent Fatigue Indicator - MGE XE Compatible**](https://www.nexusmods.com/morrowind/mods/44363) by Tyler799 - adds a status bar to enemies indicating their current fatigue level, similar to health bars.  
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and Vtastek - adds earthquakes to volcanically active regions of Vvardenfell such as the ashlands.  
+[**Sunrise and Sunset Season and Latitude Scaling**](https://www.nexusmods.com/morrowind/mods/44375) by svengineer99 - adjusts dawn and dusk times to scale with time of year and latitude.  
+[**Sky Diversity**](https://www.nexusmods.com/morrowind/mods/44345) by svengineer99 - generates unique weather textures, rainbows, etc, on the fly to make every shift in weather unique.  
 
 ## Old MGE/MWSE (<= 2.0) (should still work with MWSE2.1+, but these mods don't use Lua.)
 [**MCC Leveller**](https://www.nexusmods.com/morrowind/mods/44294) by mg79 - Skills based smooth levelling similar to GCD, where multiple skills contribute to attribute level ups. State-based health. Skills decay if you don't use them for long periods of time.  
+[**Buff Clipping (A.K.A. Overbuff Kickback)**](https://www.nexusmods.com/morrowind/mods/44295) by svengineer99 - enforces caps on the maximum attribute, chameleon, sanctuary and resistance buffs the player can have.  Exceeding the caps can result in attribute damage, knock-down, endurance and health drains.  The cap formulas are based on the underlying player attributes and personality that can be customized through global variables.  
 [**The Ash Pit**](https://www.nexusmods.com/morrowind/mods/45195) by Team Horny Skulls - adds the Ash Fighters, an arena-based fighting faction with unique combat encounters and quests.  
 [**Funny Farm Friends**](https://www.nexusmods.com/morrowind/mods/44689) by Team Green Cow - adds unique companion creatures & combat encounters.  
 [**Dreams of the Drunken Mudcrab**](https://www.nexusmods.com/morrowind/mods/44669) by Team Green Cow - Quest mod with unique scripted sequences.  

@@ -99,8 +99,8 @@ Coming soon.
 [**The Ash Pit**](https://www.nexusmods.com/morrowind/mods/45195) by Team Horny Skulls - adds the Ash Fighters, an arena-based fighting faction with unique combat encounters and quests.  
 [**Funny Farm Friends**](https://www.nexusmods.com/morrowind/mods/44689) by Team Green Cow - adds unique companion creatures & combat encounters.  
 [**Dreams of the Drunken Mudcrab**](https://www.nexusmods.com/morrowind/mods/44669) by Team Green Cow - Quest mod with unique scripted sequences.  
-[**Suvanto's Wondrous Shop of Curious Creations**](https://www.nexusmods.com/morrowind/mods/44654) by Team Green Cow - Adds unique scripted items.
-[**Rattle-Teeth Manor**](https://www.nexusmods.com/morrowind/mods/44634) by Team Green Cow - a necromancy themed player home with scripted features.
+[**Suvanto's Wondrous Shop of Curious Creations**](https://www.nexusmods.com/morrowind/mods/44654) by Team Green Cow - Adds unique scripted items.  
+[**Rattle-Teeth Manor**](https://www.nexusmods.com/morrowind/mods/44634) by Team Green Cow - a necromancy themed player home with scripted features.  
 [**Quick Loot**](https://www.nexusmods.com/morrowind/mods/44258) by mg79 - adds several new options for looting containers conveniently.  
 [**MWSE Containers**](https://www.nexusmods.com/morrowind/mods/44387) by Greatness7 - adds new containers for sale that make managing your inventory a lot easier, while maintaining proper encumbrance.  
 [**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, and TheDrunkenMudcrab - A quest mod that adds a new dwemer ruin to explore. Has a number of innovative quests and rewards, plus entertaining characters.

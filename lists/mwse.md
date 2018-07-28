@@ -92,6 +92,12 @@ Autolaunches Sky Diversity so you don't have to remember to do it manually every
 [**The Forgotten**](https://www.nexusmods.com/morrowind/mods/45733) by Team Horny Skulls  
 A quest mod dealing with a cult of Namira, with options to side with the cultists or the ordinators.  
 
+[**Invisibility Anti-Exploit**](https://www.nexusmods.com/morrowind/mods/45899) by Remiros, Greatness7, and NullCascade  
+In the vanilla game invisibility has a relatively major bug/exploit. While you are invisible and not directly in the line of sight of an NPC, the sneak chance will always be 100%, even if your sneak, agility and luck are as low as 0, which pretty much allows you to steal absolutely everything. This has to do with the fact that the AI doesn't update quickly enough after exiting invisibility. This mod fixes this by preemptively removing the invisibility effect and delaying the activate function by a single frame.  
+
+[**Dimensional Containers**](https://www.nexusmods.com/morrowind/mods/45883) by ProfArmitage  
+Adds four magical portable containers hidden across Vvardenfell that can hold far more than their size suggests and never increase in weight. They're quite heavy but allow you to carry more overall - if you can find them and get through the dungeons. Rumours in towns will give you vague hints.  
+
 
 ## MGE XE Mods (including shader sets)
 [**Enhanced Water Shader for MGE XE**](https://www.nexusmods.com/morrowind/mods/45432) by Krokantor - new water shaders with green/non-green options.  

@@ -1,4 +1,6 @@
 # MGE/MWSE Mods List
+**Updated**: 15/08/2018
+
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the most recent version of [**MWSE**](https://nullcascade.com/mwse/mwse-dev.zip) and the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
 This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mods. Unless otherwise stated I don't vouch for quality or compatibility.  
@@ -97,6 +99,19 @@ In the vanilla game invisibility has a relatively major bug/exploit. While you a
 
 [**Dimensional Containers**](https://www.nexusmods.com/morrowind/mods/45883) by ProfArmitage  
 Adds four magical portable containers hidden across Vvardenfell that can hold far more than their size suggests and never increase in weight. They're quite heavy but allow you to carry more overall - if you can find them and get through the dungeons. Rumours in towns will give you vague hints.  
+
+[**Configurable Barter Gold**](https://www.nexusmods.com/morrowind/mods/45942) by DarkholmeTenk  
+This mod adds a new setting to the Mod Configuration menu added by the latest version of MWSE which allows you to set a multiplier to every merchant's gold amounts. If you think NPCs generally have too much or too little gold you can adjust it now.  
+
+[**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940) by Petethegoat  
+Ownership Indicators adds an Oblivion style ownership indicator, when you look at owned items, beds, and more. Compatible with all crosshair texture replacements. Uses Lua instead of old MWSE/MGE functions as previous ownership indicators have.  
+
+[**Immersive Run Fix**](https://www.nexusmods.com/morrowind/mods/45947/) by Petethegoat  
+This mod normalizes the player's movement speed, ensuring they run at a consistent speed even during diagonal movement.
+
+[**Continue**](https://www.nexusmods.com/morrowind/mods/45952/) by Petethegoat  
+Adds a continue button to the main menu, to instantly load your most recent save. This can also optionally hide the credits button to stop the main menu from becoming too cluttered. This also includes a secret testing feature to load into a specified save game even faster- uncomment two of the lines at the top of main.lua, and choose a filename and key code. Instantly load into a save by holding your key while the game starts up. Several menu texture replacers have compatibility options for this.  
+
 
 
 ## MGE XE Mods (including shader sets)

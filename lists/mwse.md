@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 15/08/2018
+**Updated**: 16/08/2018
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the most recent version of [**MWSE**](https://nullcascade.com/mwse/mwse-dev.zip) and the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
@@ -112,7 +112,8 @@ This mod normalizes the player's movement speed, ensuring they run at a consiste
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952/) by Petethegoat  
 Adds a continue button to the main menu, to instantly load your most recent save. This can also optionally hide the credits button to stop the main menu from becoming too cluttered. This also includes a secret testing feature to load into a specified save game even faster- uncomment two of the lines at the top of main.lua, and choose a filename and key code. Instantly load into a save by holding your key while the game starts up. Several menu texture replacers have compatibility options for this.  
 
-
+[**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954/?tab=description) by PhDInSorcery  
+Tamrielic Lore is an in-game book describing the stories behind each artifact the player encounters in Vvardenfell. This mod adds the book's lore to the tooltips of each respective artifact. Note that this mod does not actually change the items themselves; it uses MWSE-Lua to add onto their tooltips. It is therefore compatible with everything!  
 
 ## MGE XE Mods (including shader sets)
 [**Enhanced Water Shader for MGE XE**](https://www.nexusmods.com/morrowind/mods/45432) by Krokantor - new water shaders with green/non-green options.  

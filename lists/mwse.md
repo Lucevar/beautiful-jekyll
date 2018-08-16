@@ -115,6 +115,9 @@ Adds a continue button to the main menu, to instantly load your most recent save
 [**Tamrielic Lore Tooltips**](https://www.nexusmods.com/morrowind/mods/45954/?tab=description) by PhDInSorcery  
 Tamrielic Lore is an in-game book describing the stories behind each artifact the player encounters in Vvardenfell. This mod adds the book's lore to the tooltips of each respective artifact. Note that this mod does not actually change the items themselves; it uses MWSE-Lua to add onto their tooltips. It is therefore compatible with everything!  
 
+[**Value/Weight Ratios on Tooltips**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=97&Itemid=50&-Value-Weight-Ratio-Tooltip) by abot  
+Displays the Value to Weight ratio on item tooltips so you can see at a glance if an item is worth taking or not.
+
 ## MGE XE Mods (including shader sets)
 [**Enhanced Water Shader for MGE XE**](https://www.nexusmods.com/morrowind/mods/45432) by Krokantor - new water shaders with green/non-green options.  
 [**Purple HaZe MGE XE Palette Collection**](https://www.nexusmods.com/morrowind/mods/44223) by Psijonica  

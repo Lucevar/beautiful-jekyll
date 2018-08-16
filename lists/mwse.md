@@ -17,13 +17,13 @@ A simple mod that auto-loots plants when you activate them, instead of opening i
 [**Sophisticated Save System**](https://www.nexusmods.com/morrowind/mods/45608) by NullCascade  
 Drastically expands and improves the save system, including autosaves on cell changes. No more playing for hours, crashing, and then realising that your last save was three hours and ten quests back!  
 
-[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade
+[**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
 Changes the mechanics of how many potions a player can drink. In vanilla, the player is allowed to drink infinite potions with no negative effects, leading to easy alchemy exploits. Offers two options: limit the player to one potion per five seconds, or an Oblivion-style option that allows the player to have only four potions active at once.  
 
 [**Dynamic Difficulty**](https://www.nexusmods.com/morrowind/mods/45710) by NullCascade  
 Configurable difficulty. You can change the base difficulty, make the game harder or easier as you level up, or set the difficulty per region (so you could make the Bitter Coast very easy but the Ashlands much more dangerous, for example).  
 
-[**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712) by NullCascade
+[**Easy Escort**](https://www.nexusmods.com/morrowind/mods/45712) by NullCascade  
 Vanilla escort quests are a nightmare because of the terrible pathfinding AI. This mod keeps followers close to you and ensures they don't get stuck on a rock in the ashlands somewhere.  
 
 [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717) by NullCascade  

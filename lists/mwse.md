@@ -116,7 +116,10 @@ Adds a continue button to the main menu, to instantly load your most recent save
 Tamrielic Lore is an in-game book describing the stories behind each artifact the player encounters in Vvardenfell. This mod adds the book's lore to the tooltips of each respective artifact. Note that this mod does not actually change the items themselves; it uses MWSE-Lua to add onto their tooltips. It is therefore compatible with everything!  
 
 [**Value/Weight Ratios on Tooltips**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=97&Itemid=50&-Value-Weight-Ratio-Tooltip) by abot  
-Displays the Value to Weight ratio on item tooltips so you can see at a glance if an item is worth taking or not.
+Displays the Value to Weight ratio on item tooltips so you can see at a glance if an item is worth taking or not.  
+
+[**Ingredient Flavour Texts**](https://www.nexusmods.com/morrowind/mods/45956/) by Remiros  
+This mod adds flavor texts to all ingredients in the game, expansions included. Like Tamrielic Lore Tooltips this should be compatible with everything since it doesn't edit the objects themselves. 
 
 ## MGE XE Mods (including shader sets)
 [**Enhanced Water Shader for MGE XE**](https://www.nexusmods.com/morrowind/mods/45432) by Krokantor - new water shaders with green/non-green options.  

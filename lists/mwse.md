@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 16/08/2018
+**Updated**: 24/08/2018
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the most recent version of [**MWSE**](https://nullcascade.com/mwse/mwse-dev.zip) and the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
@@ -118,8 +118,28 @@ Tamrielic Lore is an in-game book describing the stories behind each artifact th
 [**Value/Weight Ratios on Tooltips**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=97&Itemid=50&-Value-Weight-Ratio-Tooltip) by abot  
 Displays the Value to Weight ratio on item tooltips so you can see at a glance if an item is worth taking or not.  
 
+[**Tooltip**](https://www.nexusmods.com/morrowind/mods/45969) by abot  
+An updated version of previous Value/Weight Ratio mod (renamed from ValueWeightRatio to Tooltip as functionality may increase. By default displays Value/Weight Ratio, you can change setting below in main.lua file to true or false to enable extra functionality. You can also enable showing whether or not a skill book has already been read.  
+
 [**Ingredient Flavour Texts**](https://www.nexusmods.com/morrowind/mods/45956/) by Remiros  
-This mod adds flavor texts to all ingredients in the game, expansions included. Like Tamrielic Lore Tooltips this should be compatible with everything since it doesn't edit the objects themselves. 
+This mod adds flavor texts to all ingredients in the game, expansions included. Like Tamrielic Lore Tooltips this should be compatible with everything since it doesn't edit the objects themselves.  
+
+[**Get Lost!**](https://www.nexusmods.com/morrowind/mods/45981?) by NullCascade  
+Removes the minimap and the world map, for maximum immersion. Better find a compass and a paper map!  
+
+[**Equipment Requirements**](https://www.nexusmods.com/morrowind/mods/45980) by Remiros and Greatness7  
+This mod adds skill requirements for all armors and weapons in the vanilla game, its expansions and all mods mentioned in the last section. The requirements are directly based on the skill of the respective item.  
+
+[**Dahrk's Super-Sized Storage (D'sSSS)**](https://www.nexusmods.com/morrowind/mods/45147) by Melchior Dahrk  
+This simple mod increases the capacity of all containers (BM and TR included) by x100. Zero capacity containers are unaltered (0*100=0). For instance, crates in the original game had a weight capacity of 200. By applying this mod, they will be able to hold 20,000. Enough to help you sort out those pesky dwemer cogs.  
+
+[**UI Inspector**](https://www.nexusmods.com/morrowind/mods/45964/) by Hrnchamd  
+UI viewer and interactive editor for Morrowind UIs. Allows inspection of the UI menu hierarchy and all layout values. Layout variables can be modified in-game for fine-tuning your own UIs.  
+
+[**Consistent Main Menu**](https://www.nexusmods.com/morrowind/mods/45982) by twizz0r  
+New high-quality replacer textures that homogenize main menus so that MWSE's MCM and Petethegoat's Continue Mod menu items don't look out of place. Especially useful for those using alternate UI's and/or alternate main menu images. OG version also included for those that roll old school.  
+
+
 
 ## MGE XE Mods (including shader sets)
 [**Enhanced Water Shader for MGE XE**](https://www.nexusmods.com/morrowind/mods/45432) by Krokantor - new water shaders with green/non-green options.  
@@ -133,6 +153,17 @@ This mod adds flavor texts to all ingredients in the game, expansions included. 
 [**Sky Diversity**](https://www.nexusmods.com/morrowind/mods/44345) by svengineer99 - generates unique weather textures, rainbows, etc, on the fly to make every shift in weather unique.  
 
 ## Old MGE/MWSE (<= 2.0) (should still work with MWSE2.1+, but these mods don't use Lua.)
+[**MWSE 2.1 Pursuit Revisited**](https://www.nexusmods.com/morrowind/mods/45904/) by svengineer99  
+This is a compilation mod of companion features:  
+1) Enemy pursuit through load doors  
+2) Guard entry from adjacent cells, on crime reporting  
+3) Teleport, travel and intervention restrictions in combat and pursuit  
+4) Thieves tools door locking mechanic and equip hot keys  
+5) Crime, Flee and related AI tweaks  
+[**Death and Resurrection**](https://www.nexusmods.com/morrowind/mods/45959) by Xiran  
+Death will take Attribute points away from you if (when) killed, so it's better not die too much. You'll be resurrected at the nearest Temple, temporarily much weaker,  must return to where you got killed and pay attention not to die again (or penalty will be higher than in consecutive "normal" deaths) . You can also change your birthsign.  
+[**Cast on Strike Bows**](https://www.nexusmods.com/morrowind/mods/45913) by efrost  
+Cast-on-strike enchantments on bows and crossbows work. Arrows and bolts are enchanted on the fly, and they're replaced with their unenchanted versions when you swap them out--even with hotkeys. Enchanted ammo works normally. Make sure MCP's "Fix enchant options on ranged" is **disabled**.  
 [**MCC Leveller**](https://www.nexusmods.com/morrowind/mods/44294) by mg79 - Skills based smooth levelling similar to GCD, where multiple skills contribute to attribute level ups. State-based health. Skills decay if you don't use them for long periods of time.  
 [**Buff Clipping (A.K.A. Overbuff Kickback)**](https://www.nexusmods.com/morrowind/mods/44295) by svengineer99 - enforces caps on the maximum attribute, chameleon, sanctuary and resistance buffs the player can have.  Exceeding the caps can result in attribute damage, knock-down, endurance and health drains.  The cap formulas are based on the underlying player attributes and personality that can be customized through global variables.  
 [**The Ash Pit**](https://www.nexusmods.com/morrowind/mods/45195) by Team Horny Skulls - adds the Ash Fighters, an arena-based fighting faction with unique combat encounters and quests.  

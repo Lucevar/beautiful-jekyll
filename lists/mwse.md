@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 24/08/2018
+**Updated**: 2018/08/27
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the most recent version of [**MWSE**](https://nullcascade.com/mwse/mwse-dev.zip) and the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
@@ -139,7 +139,8 @@ UI viewer and interactive editor for Morrowind UIs. Allows inspection of the UI 
 [**Consistent Main Menu**](https://www.nexusmods.com/morrowind/mods/45982) by twizz0r  
 New high-quality replacer textures that homogenize main menus so that MWSE's MCM and Petethegoat's Continue Mod menu items don't look out of place. Especially useful for those using alternate UI's and/or alternate main menu images. OG version also included for those that roll old school.  
 
-
+[**Descriptive Descriptions**](https://www.nexusmods.com/morrowind/mods/45991) by Remiros  
+This mod adds the item descriptions to the tooltips that have previously been missing. Many items in the game have hidden stats that are relatively important, but never shown in the game. Weapons will now show their speed, reach and enchantment value, armor and clothing will now show their enchantment value and lights will show their total duration. This mod is compatible with all other mods that add to the item tooltips.  
 
 ## MGE XE Mods (including shader sets)
 [**Enhanced Water Shader for MGE XE**](https://www.nexusmods.com/morrowind/mods/45432) by Krokantor - new water shaders with green/non-green options.  

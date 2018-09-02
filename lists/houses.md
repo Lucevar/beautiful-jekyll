@@ -15,7 +15,11 @@ Hlaalu Business adds six more quests to the game, three to Dram Bero and three t
 
 [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by Aralin  
 Simply adds a magnificent portrait to decorate the Curio manor and delight its dinner guests. Now there's some proof that Councilor Curio is such the patron of the arts he's made out to be.
-__*Lucevar's note*__: Why have I listed it under quests and dialogue, I hear you ask? Well, just look at that magnificent portrait. Does he not speak to you? Will your game feel right until you complete your quest to own this portrait?
+__*Lucevar's Note*__: Why have I listed it under quests and dialogue, I hear you ask? Well, just look at that magnificent portrait. Does he not speak to you? Will your game feel right until you complete your quest to own this portrait?
+
+[**Crassius and Therana Companion**](https://www.nexusmods.com/morrowind/mods/44247) by PrincessStomper  
+Inspired by Jasons073's April Fool's joke, this mod makes Crassius Curio and Mistress Therana into romanceable companions. Find Crassius and Therana in their usual locations - you can recruit them when you are Nerevarine (to avoid interference with main quest). Obviously you cannot recruit Therana if you have killed her! Contains mild innuendo.  
+__*Lucevar's Note*__ These are fairly limited in scope - they're not full-fledged companions in the style of Julan or anything like that. But how could I leave them off a list like this? Surprisingly PG-13 for a mod that contains Crassius Curio.
 
 [**LGNPC**]()
 
@@ -24,6 +28,7 @@ __*Lucevar's note*__: Why have I listed it under quests and dialogue, I hear you
 
 ## Great House Telvanni
 [**LGNPC**]()
+[**Quest Tweaks and Alternatives**]() by Stuporstar  
 
 # Strongholds
 ## Great House Hlaalu

@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 2018/08/27
+**Updated**: 2018/09/02
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the most recent version of [**MWSE**](https://nullcascade.com/mwse/mwse-dev.zip) and the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
@@ -152,6 +152,7 @@ This mod adds the item descriptions to the tooltips that have previously been mi
 [**Shattered Stones - An Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by Greatness7, R-Zero, and Vtastek - adds earthquakes to volcanically active regions of Vvardenfell such as the ashlands.  
 [**Sunrise and Sunset Season and Latitude Scaling**](https://www.nexusmods.com/morrowind/mods/44375) by svengineer99 - adjusts dawn and dusk times to scale with time of year and latitude.  
 [**Sky Diversity**](https://www.nexusmods.com/morrowind/mods/44345) by svengineer99 - generates unique weather textures, rainbows, etc, on the fly to make every shift in weather unique.  
+[**STEP Shader Compilation**](https://www.nexusmods.com/morrowind/mods/45257) by DassiD - This is a compilation of shaders tweaked to enhance a STEP-install of Morrowind. The complete guide can be found [**here**](http://wiki.step-project.com/Guide:Morrowind).
 
 ## Old MGE/MWSE (<= 2.0) (should still work with MWSE2.1+, but these mods don't use Lua.)
 [**MWSE 2.1 Pursuit Revisited**](https://www.nexusmods.com/morrowind/mods/45904/) by svengineer99  

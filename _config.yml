@@ -28,11 +28,11 @@ navbar-links:
     - Balmora Redecorated: "mods/balmoraredecorated"
     - Caldera Guild of Mages: "mods/calderagom"
   Guides:
-    - Mods for Beginners: "lists/basic"
+    - Mods for Beginners: "guides/basic"
   Lists:  
     - Faction Mods: "lists/factions"
   Catelogues:
-    - Dungeons: "guides/Dungeons"
+    - Dungeons: "lists/Dungeons"
     - MWSE Mods: "lists/mwse"
   MW Mod Discord: "https://discord.gg/stuvGsC"
 

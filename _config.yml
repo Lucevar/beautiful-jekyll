@@ -27,8 +27,9 @@ navbar-links:
     - Clear Your Name: "mods/clearyourname"
     - Balmora Redecorated: "mods/balmoraredecorated"
     - Caldera Guild of Mages: "mods/calderagom"
-  Lists:
+  Guides:
     - Mods for Beginners: "lists/basic"
+  Lists:  
     - Faction Mods: "lists/factions"
   Catelogues:
     - Dungeons: "guides/Dungeons"

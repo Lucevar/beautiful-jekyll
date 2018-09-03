@@ -15,7 +15,7 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 **If you're aware of any mods that change these locations but aren't listed here, please let me know! I can be contacted as Lucevar at the Morrowind Nexus or on the Morrowind Modding Discord (linked above)**.
 
 ## TL;DR my recommendations
-Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with the DD patch (available on the M&C page) since I think the changes M&C makes are generally higher quality, with fewer compatibility issues.
+Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with the DD patch (available on the M&C page) since I think the changes M&C makes are generally higher quality, with fewer compatibility issues. Then use **RTE** and **DRP** on top.
 
 ## General Replacers
 **[Lougian's Caverns Bumpmapped](https://www.nexusmods.com/morrowind/mods/42412)** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled, otherwise you get odd texture results.

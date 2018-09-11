@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 2018/09/02
+**Updated**: 2018/09/11
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the most recent version of [**MWSE**](https://nullcascade.com/mwse/mwse-dev.zip) and the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.  
 
 ## MWSE-Lua (2.1+)
+[**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  
+This mod rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural. See the mod page for a full list of changes. There is an optional new sprinting mechanic added that requires MWSE - the base mod does not. 
+
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Aka Modder's Delight. Even with the Code Patch Morrowind often crashes on exit, requiring you to kill the process in task manager just to get out of it. It's an irritating waste of time when you're playing, and even worse when you're testing mods and quitting Morrowind 10+ times an hour. This mod squashes that crash, making exiting as quick and easy as it always should have been.  
 

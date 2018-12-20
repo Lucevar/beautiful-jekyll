@@ -21,7 +21,6 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **[Lougian's Caverns Bumpmapped](https://www.nexusmods.com/morrowind/mods/42412)** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled, otherwise you get odd texture results.
 
 ## New Dungeons
-**Vveb Cavern** - M&C  
 **Serpenthis Ancestral Tomb** - [Serpenthis Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/45701) by *Lord Berandas* - this is a fun new dungeon with some interesting gameplay. Hope you enjoyed Sabrina's gym as a kid!  
 **Dreadful Cavern** - [Dreadful Cavern](https://www.nexusmods.com/morrowind/mods/46046) by *Lady Eternity* - adds a new cavern near Sadrith Mora.  
 

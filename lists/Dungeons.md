@@ -1,7 +1,7 @@
 ---
 Title: Dungeons
 ---
-**Updated**: 15/08/2018
+**Updated**: 20/12/2018
 
 This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribunal and Bloodmoon, at the bottom) separated by category. Next to the name of the cave is a list of mods that change it. Some mods change a lot of different caves; in that case I've generally just abbreviated the name rather than linking it every time. These include:  
 
@@ -21,24 +21,19 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **[Lougian's Caverns Bumpmapped](https://www.nexusmods.com/morrowind/mods/42412)** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled, otherwise you get odd texture results.
 
 ## New Dungeons
-**Archnalteg** - M&C  
-**Arkngbrad** - M&C  
-**Drurtchleft** - M&C  
-**Lava Grotto** - M&C  
-**Mzurleft** - M&C  
-**Ruins of Sturmz-Surech** - M&C  
 **Vveb Cavern** - M&C  
 **Serpenthis Ancestral Tomb** - [Serpenthis Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/45701) by *Lord Berandas* - this is a fun new dungeon with some interesting gameplay. Hope you enjoyed Sabrina's gym as a kid!  
+**Dreadful Cavern** - [Dreadful Cavern](https://www.nexusmods.com/morrowind/mods/46046) by *Lady Eternity* - adds a new cavern near Sadrith Mora.  
 
 ## Ancestral Tombs
-**Alas Ancestral Tomb**  
+**Alas Ancestral Tomb** - [Nyarlathotep](https://www.nexusmods.com/morrowind/mods/44284) by *Rankless Corgi*  
 **Alen Ancestral Tomb**  
 **Andalen Ancestral Tomb**  
 **Andalor Ancestral Tomb**  
 **Andas Ancestral Tomb**  
 **Andavel Ancestral Tomb**  
 **Andrano Ancestral Tomb** - [Andrano Tomb Remastered](https://www.nexusmods.com/morrowind/mods/44672) by *Team Wretched Netch*  
-**Andrethi Ancestral Tomb** - M&C  
+**Andrethi Ancestral Tomb** - [Andrethi Tomb Overhaul](https://www.nexusmods.com/morrowind/mods/46217) by *Jsp25*  
 **Andules Ancestral Tomb**  
 **Aralen Ancestral Tomb**  
 **Aran Ancestral Tomb**  
@@ -128,7 +123,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Abernanit** - LCO, M&C  
 **Abinabi** - LCO, M&C  
 **Adanumuran** - LCO, DD  
-**Addamasartus** - LCO, M&C  
+**Addamasartus** - LCO, M&C, [The Cave of Woe](https://www.nexusmods.com/morrowind/mods/352) by *Zdim*  
 **Aharunartus** - LCO, M&C  
 **Aharnabi** - LCO, M&C  
 **Ahinipalit** - LCO  
@@ -161,7 +156,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Kunirai** - LCO  
 **Maba-Ilu** - LCO  
 **Mallapi** - LCO, M&C  
-**Mamaea** - M&C  
+**Mamaea** - [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096) by *Team Flamboyant Armigers* - shameless plug, I was on the team that made this one!, M&C  
 **Mannammu** - LCO, M&C  
 **Maran-Adon** - M&C  
 **Masseranit** - LCO  
@@ -219,7 +214,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 
 ## Daedric Shrines - Malacath
 **Ashunartes**  
-**Ashurnibibi** - M&C  
+**Ashurnibibi** - M&C, [Daedric Ruin Expansion - Ashurnibi](https://www.nexusmods.com/morrowind/mods/37488/) by *SoulOfChrysamere*  
 **Assurdirapal**  
 **Dushariran**  
 **Ibishammus**  
@@ -242,7 +237,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Bal Ur**  
 **Esutanamus**  
 **Kushtashpi**  
-**Ramimilk**  
+**Ramimilk** - [Daedric Ruin Expansion - Ramimilk](https://www.nexusmods.com/morrowind/mods/38296) by *SoulOfChrysamere*  
 **Tusenend**  
 **Yansirramus**  
 
@@ -272,7 +267,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Falensarano** - [Falensarano - The Ruined Stronghold](https://www.nexusmods.com/morrowind/mods/44244) by *CarrotFerret*  
 **Hlormaren**  
 **Indoranyon**  
-**Kogoruhn** - DD, [Kogoruhn Ruins](https://www.nexusmods.com/morrowind/mods/44034) by *Langusteer*  
+**Kogoruhn** - DD, [Kogoruhn Expanded](https://www.nexusmods.com/morrowind/mods/46098) by *Team Drama Kwama*, [Kogoruhn Ruins](https://www.nexusmods.com/morrowind/mods/44034) by *Langusteer*  
 **Marandus** - [LGNPC Pax Redoran](http://lgnpc.org/downloads)  
 **Rotheran**  
 **Telasero**  
@@ -284,24 +279,24 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Arkngthunch-Sturdumz** - DRP  
 **Bethamez** - DRP  
 **Bthanchend**  
-**Bthuand**  
+**Bthuand** - [Bthuand Expanded](https://www.nexusmods.com/morrowind/mods/46055) by *Jsp25*  
 **Bthungthumz**  
-**Dagoth Ur** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
+**Dagoth Ur** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544) by *Darknut*  
 **Druscashti**  
-**Endusal** - [Endusal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
+**Endusal** - [Endusal Redone](https://www.nexusmods.com/morrowind/mods/43399) by *Trainwiz*  
 **Galom Daeus**  
 **Mudan**  
 **Mzahnch** - DRP  
 **Mzanchend**  
 **Mzuleft** - DRP  
 **Nchardahrk**  
-**Nchardumz**  
+**Nchardumz** - [Aetherium Forging](https://www.nexusmods.com/morrowind/mods/44436) by *Grond1911*  
 **Nchuleft** - DRP  
 **Nchuleftingth**  
 **Nchurdamz**  
-**Odrosal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
-**Tureynulal** - [Tureynulal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
-**Vemynal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
+**Odrosal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544) by *Darknut*  
+**Tureynulal** - [Tureynulal Redone](https://www.nexusmods.com/morrowind/mods/43399) by *Trainwiz*  
+**Vemynal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544) by *Darknut*  
 
 ## Grottos
 **Akimaes Grotto** - M&C  

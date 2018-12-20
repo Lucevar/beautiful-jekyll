@@ -24,13 +24,13 @@ In vanilla Morrowind, Mamaea is a dull maze of caves with nothing remarkable abo
 - 100+ new meshes available for modders
 
 
-**Flamboyant Armigers**
+**Flamboyant Armigers**  
 **Endoran** - Memetic Space Warrior  
 **Lucevar** - Planning Manager  
 **Melchior Dahrk** - Awakener of Mamaea  
 **RubberMan** - Master Stronghold Architect  
 
-**Resources**
+**Resources**  
 ﻿**LondonRook** - mist mesh  
 **Lougian** - some rock meshes  
 **Tamriel Rebuilt** - coiled rope  

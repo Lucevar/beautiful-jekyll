@@ -155,7 +155,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Kunirai** - LCO  
 **Maba-Ilu** - LCO  
 **Mallapi** - LCO, M&C  
-**Mamaea** - [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096) by *Team Flamboyant Armigers* - shameless plug, I was on the team that made this one!, M&C  
+**Mamaea** - [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096) by *Team Flamboyant Armigers* - shameless plug, I was on the team that made this one!, M&C. Mamaea Awakened and M&C are compatible with each other.  
 **Mannammu** - LCO, M&C  
 **Maran-Adon** - M&C  
 **Masseranit** - LCO  

@@ -57,7 +57,10 @@ Expands UI functionality with searching, filtering, and more visual feedback.
 Skills Module is a framework for MWSE+Lua mods that allows you to easily create new skills in Morrowind with just a few lines of code. Leveling and UI are handled automatically, with new skills added seamlessly into the stats menu.  
 
 [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041) by Merlord  
-Mine ore by actually swinging a pick axe at it. Uses latest MWSE+Lua
+Mine ore by actually swinging a pick axe at it. Uses latest MWSE+Lua  
+
+[**Provincial Music**](https://www.nexusmods.com/morrowind/mods/46229/) by Texafornian  
+Quickly create province-specific battle and explore soundtracks for Tamriel Rebuilt (Mainland Morrowind) and Project Tamriel's province mods (Cyrodiil and Skyrim) by dragging and dropping music into folders.  
 
 ## MWSE-Lua (2.1+)
 [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  

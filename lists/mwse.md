@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 2018/09/11
+**Updated**: 2018/12/21
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the most recent version of [**MWSE**](https://nullcascade.com/mwse/mwse-dev.zip) and the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
@@ -7,9 +7,61 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.  
 
+## New since last update (2018/09/11-2018/12/21)  
+[**Morrowind Graphics Guide Shaders**](https://www.nexusmods.com/morrowind/mods/46158) by DassiD (editing existing MGE shaders)  
+A set of MGE XE shaders tweaked to work well with the [Morrowind Graphic Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide).
+
+[**3rd Person Camera Transitions**](https://www.nexusmods.com/morrowind/mods/46230/) by darksatanas  
+When you ready a weapon, the mod will automatically move the camera from over the shoulder to vanilla Morrowind location (centered), like in Skyrim.  
+
+[**The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/46226/) by OperatorJack  
+Using MWSE Lua, adds a miniquest to obtain a spell to teleport to a Telvanni style player home, with mark-recall like functionality.  
+
+[**MUSE - Morrowind Music System Extended**](https://www.nexusmods.com/morrowind/mods/46200) by Rytelier  
+Extended and flexible music system for Morrowind, allows to easily customize your music as well as make new music mods.  
+
+[**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
+Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.  
+
+[**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r  
+UI addition for chargen that allows you to generate a random name for your character at the start of the game.  
+
+[**Ministry of Clarity**](https://www.nexusmods.com/morrowind/mods/46093) by Team Sexy Sloads  
+A sprawling questline full of action and intrigue with a fully radiant quest system, new loot and more! Adds content relating to the Sixth House and the Main Quest. Part of MMM 2018.  
+
+[**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098) by Team Drama Kwama  
+Expands the main quest dungeon of Kogoruhn, making it a much more interesting place to visit (and much spookier). Part of MMM 2018.  
+
+[**The Demon of Knowledge**](https://www.nexusmods.com/morrowind/mods/46126) by Team Sexy Sloads  
+A mysterious book has fallen into your possession… How did it get there? Who does it belong to? Follow the clues, as you find yourself taken away by a detailed, multilayered story steeped in TES Lore. Part of MMM 2018.  
+
+[**The Battle Rite of Mephala**](https://www.nexusmods.com/morrowind/mods/46123) by Team Nordic Chefs  
+Quest mod. On a strange island known to few as Crescent Moon Isle, a bloodbath awaits the player in a struggle for survival against a band of crazed assassins, all for the amusement of a few cultists hiding away in the shadows. Partake in the slaughter with joy, or perhaps you believe in following the deity's actual wishes, hidden among the bodies... Part of MMM 2018.  
+
+[**MWSE Unique Item Tooltips**](https://www.nexusmods.com/morrowind/mods/46122/) by anumaril21  
+Provides helpful tooltips/flavor texts for all Quest Items, Unique Items, and some Artifacts within Morrowind, Tribunal, Bloodmoon, and the Official Plugins.  
+
+[**MWSE Key Tooltips**](https://www.nexusmods.com/morrowind/mods/46109/) by anumaril21  
+Provides helpful tooltips/flavor texts to all Keys and Propylon Indices within Morrowind, Tribunal, Bloodmoon, and the Official Plugins.
+
+[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot  
+Automatically tunes linked doors locked/unlocked state on activate, lock/unlock by spell, unlock by lockpick. Tuned doors are not only coherent, they should work great with mods like pursuit enhanced allowing NPCs to chase you through doors and give a purpose to the lock spell.
+
+[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & community modellers  
+Equipped weapons no longer disappear when lowered. Instead they will be shown on the character's hip or back. This new functionality affects both the player and all other characters, and works with all weapons from all mods. Additionally features a comprehensive set of high quality quiver and scabbard assets.  
+
+[**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071/?) by NullCascade  
+Expands UI functionality with searching, filtering, and more visual feedback.  
+
+[**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034) by Merlord  
+Skills Module is a framework for MWSE+Lua mods that allows you to easily create new skills in Morrowind with just a few lines of code. Leveling and UI are handled automatically, with new skills added seamlessly into the stats menu.  
+
+[**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041) by Merlord  
+Mine ore by actually swinging a pick axe at it. Uses latest MWSE+Lua
+
 ## MWSE-Lua (2.1+)
 [**Speed and Movement Rebalanced**](https://www.nexusmods.com/morrowind/mods/46029/) by Remiros  
-This mod rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural. See the mod page for a full list of changes. There is an optional new sprinting mechanic added that requires MWSE - the base mod does not. 
+This mod rebalances the speed attribute and overall movement in the game in an attempt to make it feel more natural. See the mod page for a full list of changes. There is an optional new sprinting mechanic added that requires MWSE - the base mod does not.
 
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
 Aka Modder's Delight. Even with the Code Patch Morrowind often crashes on exit, requiring you to kill the process in task manager just to get out of it. It's an irritating waste of time when you're playing, and even worse when you're testing mods and quitting Morrowind 10+ times an hour. This mod squashes that crash, making exiting as quick and easy as it always should have been.  

@@ -1,7 +1,7 @@
 ---
 Title: Dungeons
 ---
-**Updated**: 20/12/2018
+**Updated**: 22/12/2018
 
 This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribunal and Bloodmoon, at the bottom) separated by category. Next to the name of the cave is a list of mods that change it. Some mods change a lot of different caves; in that case I've generally just abbreviated the name rather than linking it every time. These include:  
 
@@ -18,11 +18,16 @@ This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribuna
 Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with the DD patch (available on the M&C page) since I think the changes M&C makes are generally higher quality, with fewer compatibility issues. Then use **RTE** and **DRP** on top.
 
 ## General Replacers
-**[Lougian's Caverns Bumpmapped](https://www.nexusmods.com/morrowind/mods/42412)** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled, otherwise you get odd texture results.
+**[Lougian's Caverns Bumpmapped](https://www.nexusmods.com/morrowind/mods/42412)** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled, otherwise you get odd texture results. It's a texture replacer so it's compatible with pretty much all the other mods on this list.  
 
 ## New Dungeons
 **Serpenthis Ancestral Tomb** - [Serpenthis Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/45701) by *Lord Berandas* - this is a fun new dungeon with some interesting gameplay. Hope you enjoyed Sabrina's gym as a kid!  
 **Dreadful Cavern** - [Dreadful Cavern](https://www.nexusmods.com/morrowind/mods/46046) by *Lady Eternity* - adds a new cavern near Sadrith Mora.  
+**Mage Robes** - [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by *Melchior Dahrk*  
+Doesn't sound dungeon related to begin with, but there's a beautiful new cave system added for the quest in this mod.  
+**OAAB Tel Mora** - [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by *Melchior Dahrk*  
+Adds an interesting new dungeon as part of quests added to Tel Mora, as well as being a beautiful town expansion.  
+
 
 ## Ancestral Tombs
 **Alas Ancestral Tomb** - [Nyarlathotep](https://www.nexusmods.com/morrowind/mods/44284) by *Rankless Corgi*  
@@ -47,7 +52,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Dralas Ancestral Tomb**  
 **Drath Ancestral Tomb**  
 **Dreloth Ancestral Tomb**  
-**Drethan Ancestral Tomb**  
+**Drethan Ancestral Tomb** - [**Shallit Hideout**](https://www.nexusmods.com/morrowind/mods/43645)  
 **Drinith Ancestral Tomb**  
 **Dulo Ancestral Tomb**  
 **Fadathram Ancestral Tomb**  
@@ -102,7 +107,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Sarys Ancestral Tomb**  
 **Savel Ancestral Tomb**  
 **Senim Ancestral Tomb**  
-**Seran Ancestral Tomb** - M&C  
+**Seran Ancestral Tomb** - [**Spidersilk Shield**](https://www.nexusmods.com/morrowind/mods/46220)  
 **Serano Ancestral Tomb**  
 **Sethan Ancestral Tomb**  
 **Telvayn Ancestral Tomb**  
@@ -132,13 +137,13 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Ashanammu** - LCO, [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194)  
 **Ashinabi** - LCO  
 **Ashirbadon** - LCO  
-**Ashir-Dan** - LCO    
+**Ashir-Dan** - M&C, LCO    
 **Assarnud** - LCO  
 **Assemanu** - LCO  
 **Assu** - LCO  
-**Assumanu** - LCO  
-**Beshara** - LCO, M&C  
-**Bensamsi** - LCO  
+**Assumanu** - M&C, LCO  
+**Beshara** - M&C, LCO  
+**Bensamsi** - [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126), LCO  
 **Cavern of the Incarnate** - [Cavern of the Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860) by *ivolga/Aoimevelho*, LCO, DD  
 **Corprusarium**  
 **Dubdilla** - LCO  
@@ -173,28 +178,28 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Odirnamat**  
 **Palansour**  
 **Panat**  
-**Pinsun**  
+**Pinsun** - M&C  
 **Piran**  
 **Pulk**  
 **Punabi** - M&C  
 **Punammu** - M&C  
 **Punsabanit**  
 **Rissun** - M&C  
-**Salmantu** - M&C  
-**Sanabi**  
+**Salmantu**  
+**Sanabi** - M&C  
 **Sanit**  
 **Sargon**  
 **Saturan**  
 **Sennananit** - M&C  
 **Sha-Adnius**  
 **Shal**  
-**Shallit**  
+**Shallit** - [**Shallit Hideout**](https://www.nexusmods.com/morrowind/mods/43645)  
 **Sharapli**  
 **Shurinbaal** - M&C  
 **Shushan**  
 **Shushishi**  
 **Sinsibadon**  
-**Subdun**  
+**Subdun** - M&C  
 **Sud**  
 **Surirulk**  
 **Tin-Ahhe** - M&C  
@@ -203,13 +208,13 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Urshilaku** - LCO  
 **Yakanalit**  
 **Yakin**  
-**Yasamsi**  
+**Yasamsi** - M&C  
 **Yesamsi** - DD  
 **Zainsipilu** - M&C  
-**Zaintirari**  
+**Zaintirari** - M&C  
 **Zanabi**  
 **Zebabi**  
-**Zenarbael**  
+**Zenarbael** - M&C  
 
 ## Daedric Shrines - Malacath
 **Ashunartes**  
@@ -245,7 +250,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Ald Daedroth**  
 **Almurbalarami**  
 **Assalkushalit**  
-**Bal Fell**  
+**Bal Fell** - [**Bal Fell Under**](https://www.nexusmods.com/morrowind/mods/31389)  
 **Ihinipalit**  
 **Maelkashishi** - M&C  
 **Onnissiralis**  
@@ -308,7 +313,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Mul Grotto** - M&C  
 **Nimawia Grotto** - DD  
 **Vassamsi Grotto**  
-**Zalkin Grotto**
+**Zalkin Grotto** - M&C
 
 ## Ebony Mines
 **Caldera Mine** - [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194)  

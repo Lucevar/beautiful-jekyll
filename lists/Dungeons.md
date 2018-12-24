@@ -125,7 +125,7 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 **Dralas Ancestral Tomb**  
 **Drath Ancestral Tomb**  
 **Dreloth Ancestral Tomb**  
-**Drethan Ancestral Tomb** - [**Shallit Hideout**](https://www.nexusmods.com/morrowind/mods/43645)  
+**Drethan Ancestral Tomb** - [Shallit Hideout](https://www.nexusmods.com/morrowind/mods/43645)  
 **Drinith Ancestral Tomb**  
 **Dulo Ancestral Tomb**  
 **Fadathram Ancestral Tomb**  
@@ -180,7 +180,7 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 **Sarys Ancestral Tomb**  
 **Savel Ancestral Tomb**  
 **Senim Ancestral Tomb**  
-**Seran Ancestral Tomb** - [**Spidersilk Shield**](https://www.nexusmods.com/morrowind/mods/46220)  
+**Seran Ancestral Tomb** - [Spidersilk Shield](https://www.nexusmods.com/morrowind/mods/46220)  
 **Serano Ancestral Tomb**  
 **Sethan Ancestral Tomb**  
 **Telvayn Ancestral Tomb**  
@@ -199,7 +199,7 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 **Abanabi** - LCO, M&C  
 **Abernanit** - LCO, M&C  
 **Abinabi** - LCO, M&C  
-**Adanumuran** - [**Adanumuran Reclaimed**](https://www.nexusmods.com/morrowind/mods/43340), LCO, DD  
+**Adanumuran** - [Adanumuran Reclaimed](https://www.nexusmods.com/morrowind/mods/43340), LCO, DD  
 **Addamasartus** - LCO, M&C, [The Cave of Woe](https://www.nexusmods.com/morrowind/mods/352) by *Zdim*  
 **Aharunartus** - LCO, M&C  
 **Aharnabi** - LCO, M&C  
@@ -216,7 +216,7 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 **Assu** - LCO  
 **Assumanu** - M&C, LCO  
 **Beshara** - M&C, LCO  
-**Bensamsi** - [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126), LCO  
+**Bensamsi** - [Salt Gems of Bensamsi](https://www.nexusmods.com/morrowind/mods/45126), LCO  
 **Cavern of the Incarnate** - [Cavern of the Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860) by *ivolga/Aoimevelho*, LCO, DD  
 **Corprusarium**  
 **Dubdilla** - LCO  
@@ -266,7 +266,7 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 **Sennananit** - M&C  
 **Sha-Adnius**  
 **Shal**  
-**Shallit** - [**Shallit Hideout**](https://www.nexusmods.com/morrowind/mods/43645)  
+**Shallit** - [Shallit Hideout](https://www.nexusmods.com/morrowind/mods/43645)  
 **Sharapli**  
 **Shurinbaal** - M&C  
 **Shushan**  
@@ -323,7 +323,7 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 **Ald Daedroth**  
 **Almurbalarami**  
 **Assalkushalit**  
-**Bal Fell** - [**Bal Fell Under**](https://www.nexusmods.com/morrowind/mods/31389)  
+**Bal Fell** - [Bal Fell Under](https://www.nexusmods.com/morrowind/mods/31389)  
 **Ihinipalit**  
 **Maelkashishi** - M&C  
 **Onnissiralis**  
@@ -352,7 +352,7 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 
 ## <a name="dwemer"></a>Dwemer Ruins
 **Aleft** - DD, DRP  
-**Arkngthand** - [**Arkngthand 2.0**](https://www.nexusmods.com/morrowind/mods/43628), DD  
+**Arkngthand** - [Arkngthand 2.0](https://www.nexusmods.com/morrowind/mods/43628), DD  
 **Arkngthunch-Sturdumz** - DRP  
 **Bethamez** - DRP  
 **Bthanchend**  
@@ -368,7 +368,7 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 **Mzuleft** - DRP  
 **Nchardahrk**  
 **Nchardumz** - [Aetherium Forging](https://www.nexusmods.com/morrowind/mods/44436) by *Grond1911*  
-**Nchuleft** - DRP, [**Nchuleft Dwemer Home**](http://mw.modhistory.com/download-98-12765)  
+**Nchuleft** - DRP, [Nchuleft Dwemer Home](http://mw.modhistory.com/download-98-12765)  
 **Nchuleftingth**  
 **Nchurdamz**  
 **Odrosal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544) by *Darknut*  
@@ -442,7 +442,7 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 
 ## <a name="velothi"></a>Velothi Towers
 **Ald Redaynia**  
-**Ashmelech** - [Ashmelech Reborn](https://www.nexusmods.com/morrowind/mods/45648) by *istreddify*
+**Ashmelech** - [Ashmelech Reborn](https://www.nexusmods.com/morrowind/mods/45648) by *istreddify*  
 **Arvs-Drelen**  
 **Hanud**  
 **Mababi**  

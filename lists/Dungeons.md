@@ -1,6 +1,9 @@
 ---
 Title: Dungeons
 ---
+
+# Welcome! You're probably here because someone linked you to the [Morrowind dungeon mods list](https://github.com/Lucevar/mw-immersion-mods). That's moved [here](https://github.com/Lucevar/mw-immersion-mods), along with a whole host of other lists you might find useful.
+
 **Updated**: 23/12/2018
 
 **Contents:**

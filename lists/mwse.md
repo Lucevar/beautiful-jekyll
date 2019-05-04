@@ -1,4 +1,10 @@
 # MGE/MWSE Mods List
+
+# Welcome! You're probably here because someone linked you to the [MWSE mods list](https://github.com/Lucevar/mw-immersion-mods). That's moved [here](https://github.com/Lucevar/mw-immersion-mods), along with a whole host of other lists you might find useful.
+
+
+
+
 **Updated**: 2018/12/21
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the most recent version of [**MWSE**](https://nullcascade.com/mwse/mwse-dev.zip) and the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
